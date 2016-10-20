@@ -15,11 +15,11 @@
         <mark key="^" line="426" column="21" />
         <mark key="." line="426" column="21" />
       </file>
-      <file name="$USER_HOME$/Code/deeplearn-client/src/components/TokenDisplay.jsx" timestamp="1476962227102">
-        <mark key="[" line="20" column="12" />
-        <mark key="]" line="20" column="47" />
-        <mark key="." line="20" column="47" />
-        <mark key="^" line="20" column="47" />
+      <file name="$USER_HOME$/Code/deeplearn-client/src/components/TokenDisplay.jsx" timestamp="1476965375392">
+        <mark key="[" line="57" column="25" />
+        <mark key="]" line="57" column="50" />
+        <mark key="." line="57" column="50" />
+        <mark key="^" line="57" column="50" />
       </file>
       <file name="$USER_HOME$/Code/deeplearn-client/src/components/Token.jsx" timestamp="1476961169036">
         <mark key="[" line="35" column="0" />
@@ -39,7 +39,7 @@
     <jumps />
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRva2Vuc1swXSA/IHRva2Vuc1swXS5wcm9wcyA6IDEpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb250aW51ZTsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">dGhpcy5wcm9wcy50b2tlbkxhYmVscy5tYXAoKGxhYmVsLCBpbmRleCkgPT4gPFRva2VuIGxhYmVsPXtsYWJlbH0ga2V5PXtpbmRleH0vPik=</text>
@@ -48,31 +48,31 @@
         <text encoding="base64">ICAgIG1hcmdpbkxlZnQ6IGAkezAuMjUgKiBHT0xERU5fUkFUSU99cmVtYAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRva2Vuc1swXSA/IHRva2Vuc1swXS5wcm9wcyA6IDEpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb250aW51ZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHRva2VucyA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGludWU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8U3R5bGUgcnVsZXM9e0dMT0JBTF9TVFlMRVN9Lz4K</text>
+        <text encoding="base64">ICAgICAgICBsZXQgcHJvdmlzaW9uYWxIaWdobGlnaHRzSW5kZXggPSBjdXJyZW50VG9rZW5JbmRleDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgR0xPQkFMX1NUWUxFUyA9IHsKICAnLnRva2VuICsgLnRva2VuJzogewogICAgbWFyZ2luTGVmdDogYCR7MC4yNSAqIEdPTERFTl9SQVRJT31yZW1gCiAgfQp9OwoK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRva2Vuc1swXSA/IHRva2Vuc1swXS5wcm9wcyA6IDEpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHRva2VucyA9IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNsYXNzTmFtZXMgPSBbJ3Rva2VuJ107CiAgICBpZiAodGhpcy5wcm9wcy5oaWdobGlnaHRDb2xvciAhPT0gQ09MT1JTLnRyYW5zcGFyZW50KSB7CiAgICAgIGNsYXNzTmFtZXMucHVzaCgndG9rZW4tLWhpZ2hsaWdodGVkJyk7CiAgICB9IGVsc2UgewogICAgICBjbGFzc05hbWVzLnB1c2goJ3Rva2VuLS1yZWd1bGFyJyk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICA8U3R5bGUgcnVsZXM9e0dMT0JBTF9TVFlMRVN9Lz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgR0xPQkFMX1NUWUxFUyA9IHsKICAnLnRva2VuICsgLnRva2VuJzogewogICAgbWFyZ2luTGVmdDogYCR7MC4yNSAqIEdPTERFTl9SQVRJT31yZW1gCiAgfQp9OwoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmdMZWZ0OiBgJHswLjI1ICogR09MREVOX1JBVElPfXJlbWAK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNsYXNzTmFtZXMgPSBbJ3Rva2VuJ107CiAgICBpZiAodGhpcy5wcm9wcy5oaWdobGlnaHRDb2xvciAhPT0gQ09MT1JTLnRyYW5zcGFyZW50KSB7CiAgICAgIGNsYXNzTmFtZXMucHVzaCgndG9rZW4tLWhpZ2hsaWdodGVkJyk7CiAgICB9IGVsc2UgewogICAgICBjbGFzc05hbWVzLnB1c2goJ3Rva2VuLS1yZWd1bGFyJyk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
