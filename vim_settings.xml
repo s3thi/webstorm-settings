@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Code/deeplearn-client/src/containers/DeeplearnApp/DeeplearnApp.jsx" timestamp="1476955849886">
+        <mark key="[" line="64" column="86" />
+        <mark key="]" line="64" column="76" />
+        <mark key="^" line="64" column="76" />
+        <mark key="." line="64" column="76" />
+      </file>
       <file name="$USER_HOME$/Code/deeplearn-client/json/mock-001.json" timestamp="1476951185723">
         <mark key="[" line="6" column="26" />
         <mark key="]" line="6" column="21" />
