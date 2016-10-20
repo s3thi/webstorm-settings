@@ -15,14 +15,17 @@
         <mark key="^" line="426" column="21" />
         <mark key="." line="426" column="21" />
       </file>
-      <file name="$USER_HOME$/Code/deeplearn-client/src/components/TokenDisplay.jsx" timestamp="1476968592578">
-        <mark key="[" line="76" column="84" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="53" column="24" />
+      <file name="$USER_HOME$/Code/deeplearn-client/src/components/TokenDisplay.jsx" timestamp="1476970810575">
+        <mark key="[" line="83" column="38" />
+        <mark key="]" line="81" column="50" />
+        <mark key="." line="81" column="50" />
+        <mark key="^" line="81" column="50" />
       </file>
-      <file name="$USER_HOME$/Code/deeplearn-client/src/components/Token.jsx" timestamp="1476966444997">
-        <mark key="[" line="27" column="13" />
+      <file name="$USER_HOME$/Code/deeplearn-client/src/components/Token.jsx" timestamp="1476970875974">
+        <mark key="[" line="31" column="5" />
+        <mark key="]" line="31" column="4" />
+        <mark key="." line="31" column="4" />
+        <mark key="^" line="31" column="4" />
       </file>
       <file name="$USER_HOME$/Code/deeplearn-client/src/constants.js" timestamp="1476961928701">
         <mark key="[" line="4" column="21" />
@@ -37,7 +40,7 @@
     <jumps />
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLnByb3BzLmlzSGlnaGxpZ2h0U3RhcnQpIHsKICAgICAgc3R5bGUubWFyZ2luTGVmdCA9IGAkezAuMjUgKiBHT0xERU5fUkFUSU99cmVtYDsKICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">dGhpcy5wcm9wcy50b2tlbkxhYmVscy5tYXAoKGxhYmVsLCBpbmRleCkgPT4gPFRva2VuIGxhYmVsPXtsYWJlbH0ga2V5PXtpbmRleH0vPik=</text>
@@ -46,31 +49,31 @@
         <text encoding="base64">ICAgIG1hcmdpbkxlZnQ6IGAkezAuMjUgKiBHT0xERU5fUkFUSU99cmVtYAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLnByb3BzLmlzSGlnaGxpZ2h0U3RhcnQpIHsKICAgICAgc3R5bGUubWFyZ2luTGVmdCA9IGAkezAuMjUgKiBHT0xERU5fUkFUSU99cmVtYDsKICAgIH0K</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb250aW51ZTsK</text>
+        <text encoding="base64">Y29uc3QgU1RZTEUgPSB7CiAgZGlzcGxheTogJ2ZsZXgnLAogIGZsZXhEaXJlY3Rpb246ICdjb2x1bW4nLAogIGZsZXhXcmFwOiAnbm93cmFwJywKICBmb250RmFtaWx5OiAnIkNhYmluIiwgc2Fucy1zZXJpZicsCiAgaGVpZ2h0OiBgJHtHT0xERU5fUkFUSU8gKiAzfXJlbWAKfTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGludWU7Cg==</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgcHJvdmlzaW9uYWxIaWdobGlnaHRzSW5kZXggPSBjdXJyZW50VG9rZW5JbmRleDsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRva2Vuc1swXSA/IHRva2Vuc1swXS5wcm9wcyA6IDEpOwo=</text>
+        <text encoding="base64">ICAgIGlmICgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHRva2VucyA9IAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8U3R5bGUgcnVsZXM9e0dMT0JBTF9TVFlMRVN9Lz4K</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgR0xPQkFMX1NUWUxFUyA9IHsKICAnLnRva2VuICsgLnRva2VuJzogewogICAgbWFyZ2luTGVmdDogYCR7MC4yNSAqIEdPTERFTl9SQVRJT31yZW1gCiAgfQp9OwoK</text>
+        <text encoding="base64">ICAgICAgICA8U3R5bGUgcnVsZXM9e0dMT0JBTF9TVFlMRVN9Lz4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
