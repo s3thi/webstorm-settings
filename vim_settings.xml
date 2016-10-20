@@ -15,23 +15,18 @@
         <mark key="^" line="426" column="21" />
         <mark key="." line="426" column="21" />
       </file>
-      <file name="$USER_HOME$/Code/deeplearn-client/src/components/TokenDisplay.jsx" timestamp="1476970810575">
-        <mark key="[" line="83" column="38" />
-        <mark key="]" line="81" column="50" />
-        <mark key="." line="81" column="50" />
-        <mark key="^" line="81" column="50" />
+      <file name="$USER_HOME$/Code/deeplearn-client/src/components/TokenDisplay.jsx" timestamp="1476973976101" />
+      <file name="$USER_HOME$/Code/deeplearn-client/src/components/Token.jsx" timestamp="1476974081714">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="88" column="29" />
       </file>
-      <file name="$USER_HOME$/Code/deeplearn-client/src/components/Token.jsx" timestamp="1476970875974">
-        <mark key="[" line="31" column="5" />
-        <mark key="]" line="31" column="4" />
-        <mark key="." line="31" column="4" />
-        <mark key="^" line="31" column="4" />
-      </file>
-      <file name="$USER_HOME$/Code/deeplearn-client/src/constants.js" timestamp="1476961928701">
-        <mark key="[" line="4" column="21" />
-        <mark key="]" line="5" column="71" />
-        <mark key="^" line="5" column="71" />
-        <mark key="." line="5" column="71" />
+      <file name="$USER_HOME$/Code/deeplearn-client/src/constants.js" timestamp="1476974513463">
+        <mark key="[" line="6" column="30" />
+        <mark key="]" line="6" column="30" />
+        <mark key="^" line="4" column="26" />
+        <mark key="." line="6" column="30" />
       </file>
       <file name="$APPLICATION_PLUGINS_DIR$/scratches/scratch.txt" timestamp="1476962469487">
         <mark key="[" line="0" column="0" />
@@ -39,41 +34,41 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLnByb3BzLmlzSGlnaGxpZ2h0U3RhcnQpIHsKICAgICAgc3R5bGUubWFyZ2luTGVmdCA9IGAkezAuMjUgKiBHT0xERU5fUkFUSU99cmVtYDsKICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>f</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGhpcy5wcm9wcy50b2tlbkxhYmVscy5tYXAoKGxhYmVsLCBpbmRleCkgPT4gPFRva2VuIGxhYmVsPXtsYWJlbH0ga2V5PXtpbmRleH0vPik=</text>
+        <text>f</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbkxlZnQ6IGAkezAuMjUgKiBHT0xERU5fUkFUSU99cmVtYAo=</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLnByb3BzLmlzSGlnaGxpZ2h0U3RhcnQpIHsKICAgICAgdG9rZW5UZXh0U3R5bGUuYm9yZGVyUmlnaHQgPSBgc29saWQgJHswLjI1ICogR09MREVOX1JBVElPfXJlbSAke3RoaXMucHJvcHMuaGlnaGxpZ2h0Q29sb3J9YDsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLnByb3BzLmlzSGlnaGxpZ2h0U3RhcnQpIHsKICAgICAgc3R5bGUubWFyZ2luTGVmdCA9IGAkezAuMjUgKiBHT0xERU5fUkFUSU99cmVtYDsKICAgIH0K</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgU1RZTEUgPSB7CiAgZGlzcGxheTogJ2ZsZXgnLAogIGZsZXhEaXJlY3Rpb246ICdjb2x1bW4nLAogIGZsZXhXcmFwOiAnbm93cmFwJywKICBmb250RmFtaWx5OiAnIkNhYmluIiwgc2Fucy1zZXJpZicsCiAgaGVpZ2h0OiBgJHtHT0xERU5fUkFUSU8gKiAzfXJlbWAKfTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHRva2VuVGV4dFN0eWxlID0gT2JqZWN0LmFzc2lnbigKICAgICAge30sCiAgICAgIFRPS0VOX1RFWFRfU1RZTEUsCiAgICAgIGlzVG9rZW5VbmxhYmVsZWQgPyBVTkxBQkVMRURfVE9LRU5fVEVYVF9TVFlMRSA6IExBQkVMRURfVE9LRU5fVEVYVF9TVFlMRSwKICAgICAgewogICAgICAgIGJhY2tncm91bmRDb2xvcjogdGhpcy5wcm9wcy5oaWdobGlnaHRDb2xvcgogICAgICB9CiAgICApOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc3R5bGUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgYmFja2dyb3VuZENvbG9yOiB0aGlzLnByb3BzLmhpZ2hsaWdodENvbG9yCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmICgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Y29uc3QgVE9LRU5fTEFCRUxfU1RZTEUgPSB7CiAgYmFja2dyb3VuZENvbG9yOiBDT0xPUlMuYmFja2dyb3VuZAp9Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICB3aWR0aDogJzEwMCUnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8U3R5bGUgcnVsZXM9e0dMT0JBTF9TVFlMRVN9Lz4K</text>
+        <text encoding="base64">ICBmbGV4R3JvdzogMSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -87,8 +82,8 @@
       <history-cmd>
         <entry>6</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
