@@ -3,41 +3,76 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/deeplearn-client/src/containers/DeeplearnApp/DeeplearnApp.jsx" timestamp="1476955849886">
-        <mark key="[" line="64" column="86" />
-        <mark key="]" line="64" column="76" />
-        <mark key="^" line="64" column="76" />
-        <mark key="." line="64" column="76" />
+      <file name="$USER_HOME$/Code/deeplearn-client/src/containers/DeeplearnApp/DeeplearnApp.jsx" timestamp="1476960568219">
+        <mark key="[" line="24" column="4" />
+        <mark key="]" line="24" column="2" />
+        <mark key="." line="24" column="2" />
+        <mark key="^" line="24" column="2" />
       </file>
-      <file name="$USER_HOME$/Code/deeplearn-client/json/mock-001.json" timestamp="1476951185723">
-        <mark key="[" line="6" column="26" />
-        <mark key="]" line="6" column="21" />
-        <mark key="^" line="6" column="21" />
-        <mark key="." line="6" column="21" />
+      <file name="$USER_HOME$/Code/deeplearn-client/json/mock-001.json" timestamp="1476959338105">
+        <mark key="[" line="426" column="23" />
+        <mark key="]" line="426" column="21" />
+        <mark key="^" line="426" column="21" />
+        <mark key="." line="426" column="21" />
       </file>
-      <file name="$USER_HOME$/Code/deeplearn-client/src/components/Token.jsx" timestamp="1476953473923">
-        <mark key="[" line="23" column="25" />
-        <mark key="]" line="23" column="26" />
-        <mark key="^" line="23" column="26" />
-        <mark key="." line="23" column="26" />
+      <file name="$USER_HOME$/Code/deeplearn-client/src/components/TokenDisplay.jsx" timestamp="1476962227102">
+        <mark key="[" line="20" column="12" />
+        <mark key="]" line="20" column="47" />
+        <mark key="." line="20" column="47" />
+        <mark key="^" line="20" column="47" />
       </file>
-      <file name="$USER_HOME$/Code/deeplearn-client/src/constants.js" timestamp="1476953316856">
-        <mark key="[" line="3" column="13" />
-        <mark key="]" line="3" column="19" />
-        <mark key="^" line="3" column="19" />
-        <mark key="." line="3" column="19" />
+      <file name="$USER_HOME$/Code/deeplearn-client/src/components/Token.jsx" timestamp="1476961169036">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/deeplearn-client/src/constants.js" timestamp="1476961928701">
+        <mark key="[" line="4" column="21" />
+        <mark key="]" line="5" column="71" />
+        <mark key="^" line="5" column="71" />
+        <mark key="." line="5" column="71" />
       </file>
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRva2Vuc1swXSA/IHRva2Vuc1swXS5wcm9wcyA6IDEpOwo=</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">dGhpcy5wcm9wcy50b2tlbkxhYmVscy5tYXAoKGxhYmVsLCBpbmRleCkgPT4gPFRva2VuIGxhYmVsPXtsYWJlbH0ga2V5PXtpbmRleH0vPik=</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIG1hcmdpbkxlZnQ6IGAkezAuMjUgKiBHT0xERU5fUkFUSU99cmVtYAo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRva2Vuc1swXSA/IHRva2Vuc1swXS5wcm9wcyA6IDEpOwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHRva2VucyA9IAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICA8U3R5bGUgcnVsZXM9e0dMT0JBTF9TVFlMRVN9Lz4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Y29uc3QgR0xPQkFMX1NUWUxFUyA9IHsKICAnLnRva2VuICsgLnRva2VuJzogewogICAgbWFyZ2luTGVmdDogYCR7MC4yNSAqIEdPTERFTl9SQVRJT31yZW1gCiAgfQp9OwoK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGNsYXNzTmFtZXMgPSBbJ3Rva2VuJ107CiAgICBpZiAodGhpcy5wcm9wcy5oaWdobGlnaHRDb2xvciAhPT0gQ09MT1JTLnRyYW5zcGFyZW50KSB7CiAgICAgIGNsYXNzTmFtZXMucHVzaCgndG9rZW4tLWhpZ2hsaWdodGVkJyk7CiAgICB9IGVsc2UgewogICAgICBjbGFzc05hbWVzLnB1c2goJ3Rva2VuLS1yZWd1bGFyJyk7CiAgICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHBhZGRpbmdMZWZ0OiBgJHswLjI1ICogR09MREVOX1JBVElPfXJlbWAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
-      </register>
-      <register name="-" type="4">
-        <text>.</text>
       </register>
     </registers>
     <search>
@@ -47,8 +82,8 @@
     <history>
       <history-cmd>
         <entry>6</entry>
-        <entry>W</entry>
         <entry>q</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
     </history>
