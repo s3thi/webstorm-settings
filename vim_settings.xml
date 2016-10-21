@@ -3,12 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/deeplearn-client/src/containers/DeeplearnApp/DeeplearnApp.jsx" timestamp="1477050201505">
-        <mark key="'" line="90" column="23" />
-        <mark key="[" line="19" column="37" />
-        <mark key="]" line="19" column="83" />
-        <mark key="." line="19" column="83" />
-        <mark key="^" line="19" column="83" />
+      <file name="$USER_HOME$/Code/deeplearn-client/public/deeplearn.bundle.js" timestamp="1477062415504">
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/deeplearn-client/json/mock-001.json" timestamp="1476959338105">
         <mark key="[" line="426" column="23" />
@@ -17,6 +15,19 @@
         <mark key="." line="426" column="21" />
       </file>
       <file name="$USER_HOME$/Code/deeplearn-client/src/components/TokenDisplay.jsx" timestamp="1476973976101" />
+      <file name="$USER_HOME$/Code/deeplearn-client/src/components/TradeTable.jsx" timestamp="1477047909109">
+        <mark key="'" line="29" column="14" />
+        <mark key="[" line="26" column="36" />
+        <mark key="]" line="32" column="9" />
+        <mark key="." line="32" column="9" />
+        <mark key="^" line="32" column="9" />
+      </file>
+      <file name="$USER_HOME$/Code/deeplearn-client/src/components/TradeTableList.jsx" timestamp="1477046814673">
+        <mark key="[" line="14" column="55" />
+      </file>
+      <file name="$APPLICATION_PLUGINS_DIR$/scratches/scratch.txt" timestamp="1476962469487">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/deeplearn-client/src/components/Token.jsx" timestamp="1477040547543">
         <mark key="[" line="2" column="25" />
         <mark key="]" line="2" column="38" />
@@ -30,16 +41,6 @@
         <mark key="." line="2" column="39" />
         <mark key="^" line="2" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/deeplearn-client/src/components/TradeTable.jsx" timestamp="1477047909109">
-        <mark key="'" line="29" column="14" />
-        <mark key="[" line="26" column="36" />
-        <mark key="]" line="32" column="9" />
-        <mark key="." line="32" column="9" />
-        <mark key="^" line="32" column="9" />
-      </file>
-      <file name="$USER_HOME$/Code/deeplearn-client/src/components/TradeTableList.jsx" timestamp="1477046814673">
-        <mark key="[" line="14" column="55" />
-      </file>
       <file name="$USER_HOME$/Code/deeplearn-client/src/constants.js" timestamp="1477049846786">
         <mark key="[" line="7" column="23" />
         <mark key="]" line="8" column="25" />
@@ -52,9 +53,6 @@
         <mark key="]" line="15" column="39" />
         <mark key="^" line="15" column="39" />
         <mark key="." line="15" column="39" />
-      </file>
-      <file name="$APPLICATION_PLUGINS_DIR$/scratches/scratch.txt" timestamp="1476962469487">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/deeplearn-client/src/components/ParsingsSwitcher.jsx" timestamp="1477051471171">
         <mark key="[" line="28" column="90" />
