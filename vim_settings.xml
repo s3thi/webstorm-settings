@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/deeplearn-client/src/containers/DeeplearnApp/DeeplearnApp.jsx" timestamp="1477317205110">
+      <file name="$USER_HOME$/Code/deeplearn-client/src/containers/DeeplearnApp/DeeplearnApp.jsx" timestamp="1477320179621">
         <mark key="'" line="19" column="36" />
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="99" column="116" />
-        <mark key="." line="97" column="0" />
-        <mark key="^" line="102" column="112" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+        <mark key="^" line="99" column="66" />
       </file>
       <file name="$USER_HOME$/Code/deeplearn-client/public/deeplearn.bundle.js" timestamp="1477062415504">
         <mark key="]" line="0" column="0" />
@@ -21,12 +21,12 @@
         <mark key="^" line="426" column="21" />
         <mark key="." line="426" column="21" />
       </file>
-      <file name="$USER_HOME$/Code/deeplearn-client/src/components/TokenDisplay.jsx" timestamp="1477317181660">
-        <mark key="'" line="3" column="34" />
-        <mark key="[" line="110" column="13" />
-        <mark key="]" line="110" column="13" />
-        <mark key="." line="110" column="13" />
-        <mark key="^" line="108" column="10" />
+      <file name="$USER_HOME$/Code/deeplearn-client/src/components/TokenDisplay.jsx" timestamp="1477318928132">
+        <mark key="'" line="28" column="23" />
+        <mark key="[" line="114" column="59" />
+        <mark key="]" line="114" column="102" />
+        <mark key="." line="114" column="102" />
+        <mark key="^" line="114" column="102" />
       </file>
       <file name="$USER_HOME$/Code/deeplearn-client/src/components/TradeTable.jsx" timestamp="1477047909109">
         <mark key="'" line="29" column="14" />
@@ -44,11 +44,18 @@
       <file name="$APPLICATION_PLUGINS_DIR$/scratches/scratch.txt" timestamp="1476962469487">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/deeplearn-client/src/components/Token.jsx" timestamp="1477308231482">
-        <mark key="[" line="5" column="36" />
-        <mark key="]" line="5" column="27" />
-        <mark key="." line="5" column="27" />
-        <mark key="^" line="5" column="27" />
+      <file name="$USER_HOME$/Code/deeplearn-client/src/common.js" timestamp="1477320323513">
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="55" />
+        <mark key="^" line="0" column="55" />
+        <mark key="." line="0" column="55" />
+      </file>
+      <file name="$USER_HOME$/Code/deeplearn-client/src/components/Token.jsx" timestamp="1477320386246">
+        <mark key="'" line="87" column="7" />
+        <mark key="[" line="82" column="34" />
+        <mark key="]" line="83" column="36" />
+        <mark key="." line="83" column="36" />
+        <mark key="^" line="83" column="36" />
       </file>
       <file name="$USER_HOME$/Code/deeplearn-client/src/components/TradeTables.jsx" timestamp="1477039619396">
         <mark key="'" line="4" column="1" />
@@ -76,11 +83,12 @@
         <mark key="^" line="3" column="7" />
         <mark key="." line="3" column="7" />
       </file>
-      <file name="$USER_HOME$/Code/deeplearn-client/src/components/ParsingsSwitcherTile.jsx" timestamp="1477315704565">
-        <mark key="[" line="11" column="43" />
-        <mark key="]" line="11" column="35" />
-        <mark key="." line="11" column="35" />
-        <mark key="^" line="11" column="35" />
+      <file name="$USER_HOME$/Code/deeplearn-client/src/components/ParsingsSwitcherTile.jsx" timestamp="1477320358437">
+        <mark key="'" line="44" column="46" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="39" />
+        <mark key="." line="3" column="38" />
+        <mark key="^" line="3" column="38" />
       </file>
     </filemarks>
     <jumps>
@@ -100,43 +108,49 @@
       <jump line="19" column="36" filename="$USER_HOME$/Code/deeplearn-client/src/containers/DeeplearnApp/DeeplearnApp.jsx" />
       <jump line="109" column="49" filename="$USER_HOME$/Code/deeplearn-client/src/components/TokenDisplay.jsx" />
       <jump line="3" column="34" filename="$USER_HOME$/Code/deeplearn-client/src/components/TokenDisplay.jsx" />
+      <jump line="104" column="17" filename="$USER_HOME$/Code/deeplearn-client/src/components/TokenDisplay.jsx" />
+      <jump line="107" column="0" filename="$USER_HOME$/Code/deeplearn-client/src/components/TokenDisplay.jsx" />
+      <jump line="14" column="0" filename="$USER_HOME$/Code/deeplearn-client/src/components/TokenDisplay.jsx" />
+      <jump line="28" column="23" filename="$USER_HOME$/Code/deeplearn-client/src/components/TokenDisplay.jsx" />
+      <jump line="43" column="46" filename="$USER_HOME$/Code/deeplearn-client/src/components/ParsingsSwitcherTile.jsx" />
+      <jump line="85" column="7" filename="$USER_HOME$/Code/deeplearn-client/src/components/Token.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFRva2VuRGlzcGxheSB0aXRsZT0iVG9rZW5zIgogICAgICAgICAgICAgICAgICAgICAgICAgIGRldGFpbFZpZXc9e3RydWV9CiAgICAgICAgICAgICAgICAgICAgICAgICAgdG9rZW5MYWJlbHM9e3RoaXMuc3RhdGUudHJhZGUuaW50ZXJwcmV0YXRpb25zW3RoaXMuc3RhdGUuc2VsZWN0ZWRJbnRlcnByZXRhdGlvbl0udG9rZW5zfS8+Cg==</text>
+        <text encoding="base64">aW1wb3J0IHt0b1BlcmNlbnR9IGZyb20gJy4uL2NvbW1vbi5qcyc7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgVElUTEVfU1RZTEUgPSB7CiAgdGV4dFRyYW5zZm9ybTogJ3VwcGVyY2FzZScsCiAgZm9udFNpemU6IGAke0dPTERFTl9SQVRJT31yZW1gLAogIG1pbldpZHRoOiBgJHs4ICogR09MREVOX1JBVElPfXJlbWAsCiAgYmFja2dyb3VuZENvbG9yOiBDT0xPUlMubGlnaHRHcmF5LAogIGRpc3BsYXk6ICdpbmxpbmUtYmxvY2snLAogIHBhZGRpbmc6IGAkezAuMTUgKiBHT0xERU5fUkFUSU99cmVtYAp9Owo=</text>
+        <text encoding="base64">aW1wb3J0IHt0b1BlcmNlbnR9IGZyb20gJy4uL2NvbW1vbi5qcyc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFRva2VuRGlzcGxheSB0aXRsZT0iVG9rZW5zIgogICAgICAgICAgICAgICAgICAgICAgICAgIGRldGFpbFZpZXc9e3RydWV9CiAgICAgICAgICAgICAgICAgICAgICAgICAgdG9rZW5MYWJlbHM9e3RoaXMuc3RhdGUudHJhZGUuaW50ZXJwcmV0YXRpb25zW3RoaXMuc3RhdGUuc2VsZWN0ZWRJbnRlcnByZXRhdGlvbl0udG9rZW5zfS8+Cg==</text>
+        <text encoding="base64">ICBzdGF0aWMgdG9QZXJjZW50KHMpIHsKICAgIHJldHVybiBgJHtwYXJzZUZsb2F0KHMpICogMTAwfSVgOwogIH0KCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjaGFuZ2luZyBpbnRlcnByZXRhdGlvbnonKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHt0aGlzLnByb3BzLnRpdGxlID8gPGgxIHN0eWxlPXtMQUJFTEVEX1RJVExFX1NUWUxFfT57dGhpcy5wcm9wcy50aXRsZX08L2gxPiA6IG51bGx9Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gZGVidWdnZXI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9InRva2VuLWRpc3BsYXkiIHN0eWxlPXtTVFlMRX0+CiAgICAgICAge3RoaXMucHJvcHMudGl0bGUgPyA8aDEgc3R5bGU9e0xBQkVMRURfVElUTEVfU1RZTEV9Pnt0aGlzLnByb3BzLnRpdGxlfTwvaDE+IDogbnVsbH0KICAgICAgICB7dG9rZW5Db21wb25lbnRzfQogICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgdG9rZW5MYWJlbHMgPSA8aDE+aGk8L2gxPjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgVElUTEVfU1RZTEUgPSB7CiAgdGV4dFRyYW5zZm9ybTogJ3VwcGVyY2FzZScsCiAgZm9udFNpemU6IGAke0dPTERFTl9SQVRJT31yZW1gLAogIG1pbldpZHRoOiBgJHs4ICogR09MREVOX1JBVElPfXJlbWAsCiAgYmFja2dyb3VuZENvbG9yOiBDT0xPUlMubGlnaHRHcmF5LAogIGRpc3BsYXk6ICdpbmxpbmUtYmxvY2snLAogIHBhZGRpbmc6IGAkezAuMTUgKiBHT0xERU5fUkFUSU99cmVtYAp9OwoK</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBodG1sOiB7CiAgICBib3hTaXppbmc6ICdib3JkZXItYm94JwogIH0sCgogICcqLCAqOmJlZm9yZSwgKjphZnRlcic6IHsKICAgIGJveFNpemluZzogJ2luaGVyaXQnCiAgfSwKCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgaXNUaWxlQWN0aXZlID10aGlzLnByb3BzLnNlbGVjdGVkSW50ZXJwcmV0YXRpb24gPT09IGluZGV4Owo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IHN0eWxlPXt0b2tlbkxhYmVsU3R5bGV9Pnt0aGlzLnByb3BzLmxhYmVsLmxhYmVsfTwvZGl2Pgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDx0cj4K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -160,6 +174,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
