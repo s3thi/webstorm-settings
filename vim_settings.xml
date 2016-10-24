@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/deeplearn-client/src/containers/DeeplearnApp/DeeplearnApp.jsx" timestamp="1477303413182" />
       <file name="$USER_HOME$/Code/deeplearn-client/public/deeplearn.bundle.js" timestamp="1477062415504">
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -15,7 +14,6 @@
         <mark key="^" line="426" column="21" />
         <mark key="." line="426" column="21" />
       </file>
-      <file name="$USER_HOME$/Code/deeplearn-client/src/components/TokenDisplay.jsx" timestamp="1476973976101" />
       <file name="$USER_HOME$/Code/deeplearn-client/src/components/TradeTable.jsx" timestamp="1477047909109">
         <mark key="'" line="29" column="14" />
         <mark key="[" line="26" column="36" />
@@ -61,11 +59,11 @@
         <mark key="^" line="27" column="96" />
         <mark key="." line="27" column="96" />
       </file>
-      <file name="$USER_HOME$/Code/deeplearn-client/src/components/ParsingsSwitcherTile.jsx" timestamp="1477051492945">
-        <mark key="[" line="25" column="15" />
-        <mark key="]" line="26" column="49" />
-        <mark key="." line="26" column="49" />
-        <mark key="^" line="26" column="49" />
+      <file name="$USER_HOME$/Code/deeplearn-client/src/components/ParsingsSwitcherTile.jsx" timestamp="1477305713692">
+        <mark key="[" line="20" column="27" />
+        <mark key="]" line="20" column="50" />
+        <mark key="." line="20" column="50" />
+        <mark key="^" line="20" column="50" />
       </file>
     </filemarks>
     <jumps>
@@ -86,7 +84,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRkPjwvdGQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDx0cj4K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -95,31 +93,31 @@
         <text encoding="base64">ICB3aWR0aDogYCR7OCpHT0xERU5fUkFUSU99cmVtYAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRkPjwvdGQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDx0cj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFBhcgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwvdHI+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IFBhcnNpbmdzU3dpdGNoZXJUCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRkPjwvdGQ+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgREVUQUlMUyBCSVRDSAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFBhcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">aW1wb3J0IFBhcnNpbmdzU3dpdGNoZXJUCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgREVUQUlMUyBCSVRDSAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAnLnRyYWRlLWlucHV0ICsgLmRldGFpbHMtdmlldyc6IHsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1hcmdpblRvcDogTUFSR0lOUy54bGFyZ2UK</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7dGhpcy5zdGF0ZS5pc0RldGFpbFZpZXdFbmFibGVkID8KICAgICAgICAgIDxkaXY+REVUQUlMUyBCSVRDSDwvZGl2PiA6IG51bGx9Cg==</text>
+        <text encoding="base64">ICAnLnRyYWRlLWlucHV0ICsgLmRldGFpbHMtdmlldyc6IHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -130,12 +128,15 @@
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search />
       <history-cmd>
         <entry>6</entry>
         <entry>q</entry>
         <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
