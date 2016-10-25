@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/deeplearn-client/src/containers/DeeplearnApp/DeeplearnApp.jsx" timestamp="1477382326204">
+      <file name="$USER_HOME$/Code/deeplearn-client/src/containers/DeeplearnApp/DeeplearnApp.jsx" timestamp="1477387617134">
         <mark key="'" line="19" column="36" />
-        <mark key="[" line="48" column="33" />
-        <mark key="]" line="48" column="30" />
-        <mark key="." line="48" column="30" />
-        <mark key="^" line="48" column="30" />
+        <mark key="[" line="95" column="66" />
+        <mark key="]" line="95" column="64" />
+        <mark key="." line="95" column="64" />
+        <mark key="^" line="95" column="64" />
       </file>
       <file name="$USER_HOME$/Code/deeplearn-client/public/deeplearn.bundle.js" timestamp="1477062415504">
         <mark key="]" line="0" column="0" />
@@ -41,8 +41,10 @@
       <file name="/a.dummy" timestamp="1477383910518">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_PLUGINS_DIR$/scratches/scratch.txt" timestamp="1476962469487">
-        <mark key="[" line="0" column="0" />
+      <file name="$APPLICATION_PLUGINS_DIR$/scratches/scratch.txt" timestamp="1477387113670">
+        <mark key="]" line="0" column="143" />
+        <mark key="^" line="0" column="143" />
+        <mark key="." line="0" column="143" />
       </file>
       <file name="$USER_HOME$/Code/deeplearn-client/src/common.js" timestamp="1477384008494">
         <mark key="[" line="0" column="57" />
