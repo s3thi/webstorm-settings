@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Code/deeplearn-client/src/containers/DeeplearnApp/DeeplearnApp.jsx" timestamp="1477474409639">
-        <mark key="'" line="179" column="88" />
-        <mark key="[" line="59" column="21" />
-        <mark key="]" line="59" column="15" />
-        <mark key="." line="59" column="15" />
-        <mark key="^" line="59" column="15" />
+      <file name="$USER_HOME$/Code/deeplearn-client/src/containers/DeeplearnApp/DeeplearnApp.jsx" timestamp="1477477982588">
+        <mark key="'" line="239" column="39" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+        <mark key="^" line="50" column="27" />
       </file>
       <file name="$USER_HOME$/Code/deeplearn-client/public/deeplearn.bundle.js" timestamp="1477062415504">
         <mark key="]" line="0" column="0" />
@@ -48,8 +48,8 @@
       <file name="/a.dummy" timestamp="1477403949097">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_PLUGINS_DIR$/scratches/scratch.txt" timestamp="1477473049866">
-        <mark key="'" line="3" column="0" />
+      <file name="$APPLICATION_PLUGINS_DIR$/scratches/scratch.txt" timestamp="1477477071837">
+        <mark key="'" line="0" column="22" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="162" />
         <mark key="." line="3" column="0" />
@@ -176,43 +176,46 @@
       <jump line="193" column="47" filename="$USER_HOME$/Code/deeplearn-client/src/containers/DeeplearnApp/DeeplearnApp.jsx" />
       <jump line="1" column="71" filename="$USER_HOME$/Code/deeplearn-client/src/containers/DeeplearnApp/DeeplearnApp.jsx" />
       <jump line="175" column="88" filename="$USER_HOME$/Code/deeplearn-client/src/containers/DeeplearnApp/DeeplearnApp.jsx" />
+      <jump line="0" column="22" filename="$APPLICATION_PLUGINS_DIR$/scratches/scratch.txt" />
+      <jump line="237" column="34" filename="$USER_HOME$/Code/deeplearn-client/src/containers/DeeplearnApp/DeeplearnApp.jsx" />
+      <jump line="239" column="39" filename="$USER_HOME$/Code/deeplearn-client/src/containers/DeeplearnApp/DeeplearnApp.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgREVUQUlMX1ZJRVdfQ09OVEFJTkVSX1NUWUxFID0gewo=</text>
+        <text encoding="base64">ICAgIGhlaWdodDogJ2F1dG8nLAo=</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRyYW5zaXRpb246ICdvcGFjaXR5IDMwMG1zIGVhc2UtaW4sIG1heEhlaWdodCAzMDBtcyBlYXNlLWluJwo=</text>
+        <text encoding="base64">ICAgIHRyYW5zaXRpb246ICdtYXgtaGVpZ2h0IDMwMG1zIGVhc2UtaW4nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgREVUQUlMX1ZJRVdfQ09OVEFJTkVSX1NUWUxFID0gewo=</text>
+        <text encoding="base64">ICAgIGhlaWdodDogJ2F1dG8nLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBvdmVyZmxvdzogJ2hpZGRlbicK</text>
+        <text encoding="base64">ICAgIHRyYW5zaXRpb246ICdtYXgtaGVpZ2h0IDMwMG1zIGVhc2UtaW4nCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG9wYWNpdHk6IDAuMDEsCg==</text>
+        <text encoding="base64">ICBvdmVyZmxvdzogJ2hpZGRlbicK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG9wYWNpdHk6IDEsCg==</text>
+        <text encoding="base64">Y29uc3QgREVUQUlMX1ZJRVdfQ09OVEFJTkVSX1NUWUxFID0gewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG9wYWNpdHk6IDEsCg==</text>
+        <text encoding="base64">ICBvdmVyZmxvdzogJ2hpZGRlbicK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIG9wYWNpdHk6IDAuMDEsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRyYW5zaXRpb246ICdtYXhIZWlnaHQgMzAwJwo=</text>
+        <text encoding="base64">ICAgIG9wYWNpdHk6IDEsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9wYWNpdHk6IDEsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9wYWNpdHk6IDAuMDEsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
