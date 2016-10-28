@@ -29,12 +29,18 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/deeplearn-client/src/components/TradeTable.jsx" timestamp="1477572875232">
+      <file name="/Dummy.txt" timestamp="1477649112271">
+        <mark key="[" line="4" column="22" />
+        <mark key="]" line="4" column="21" />
+        <mark key="^" line="4" column="21" />
+        <mark key="." line="4" column="21" />
+      </file>
+      <file name="$USER_HOME$/Code/deeplearn-client/src/components/TradeTable.jsx" timestamp="1477649137683">
         <mark key="'" line="36" column="14" />
-        <mark key="[" line="7" column="32" />
-        <mark key="]" line="7" column="30" />
-        <mark key="." line="7" column="30" />
-        <mark key="^" line="7" column="30" />
+        <mark key="[" line="35" column="16" />
+        <mark key="]" line="35" column="25" />
+        <mark key="." line="35" column="25" />
+        <mark key="^" line="35" column="25" />
       </file>
       <file name="$USER_HOME$/Code/deeplearn-client/src/components/TradeTableList.jsx" timestamp="1477572402688">
         <mark key="[" line="9" column="33" />
@@ -93,11 +99,11 @@
         <mark key="." line="2" column="39" />
         <mark key="^" line="2" column="39" />
       </file>
-      <file name="$USER_HOME$/Code/deeplearn-client/src/constants.js" timestamp="1477489660313">
+      <file name="$USER_HOME$/Code/deeplearn-client/src/constants.js" timestamp="1477649015513">
         <mark key="'" line="19" column="27" />
-        <mark key="[" line="45" column="1" />
-        <mark key="]" line="45" column="6" />
-        <mark key="." line="45" column="6" />
+        <mark key="[" line="25" column="52" />
+        <mark key="]" line="25" column="52" />
+        <mark key="." line="25" column="52" />
         <mark key="^" line="45" column="6" />
       </file>
       <file name="$USER_HOME$/Code/deeplearn-client/src/components/TradeInput.jsx" timestamp="1477490245196">
@@ -202,11 +208,11 @@
       <jump line="69" column="20" filename="$USER_HOME$/Code/deeplearn-client/src/components/Token.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+      <register name="&quot;" type="4">
+        <text>b</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFUlJPUl9NRVNTQUdFX1NUWUxFXD4=</text>
