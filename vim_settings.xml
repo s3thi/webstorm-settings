@@ -79,10 +79,10 @@
         <mark key="." line="25" column="37" />
         <mark key="^" line="25" column="37" />
       </file>
-      <file name="$USER_HOME$/Code/css-layout-screencast/portfolio/index-flex.html" timestamp="1481015951777">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Code/css-layout-screencast/portfolio/index-flex.html" timestamp="1481023153393">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="4" />
+        <mark key="." line="31" column="4" />
       </file>
       <file name="$USER_HOME$/Code/deeplearn-client/src/components/HelpView.jsx" timestamp="1477403464950">
         <mark key="[" line="2" column="0" />
@@ -102,11 +102,12 @@
         <mark key="^" line="4" column="21" />
         <mark key="." line="4" column="21" />
       </file>
-      <file name="$USER_HOME$/Code/css-layout-screencast/portfolio/pf-flexbox.css" timestamp="1481016031501">
-        <mark key="[" line="31" column="13" />
-        <mark key="]" line="32" column="14" />
-        <mark key="." line="32" column="14" />
-        <mark key="^" line="32" column="14" />
+      <file name="$USER_HOME$/Code/css-layout-screencast/portfolio/pf-flexbox.css" timestamp="1481023174939">
+        <mark key="[" line="20" column="11" />
+        <mark key="]" line="20" column="12" />
+        <mark key="m" line="46" column="0" />
+        <mark key="." line="20" column="12" />
+        <mark key="^" line="20" column="14" />
       </file>
       <file name="$USER_HOME$/Code/deeplearn-client/src/common.js" timestamp="1477384008494">
         <mark key="[" line="0" column="57" />
@@ -114,11 +115,12 @@
         <mark key="^" line="0" column="63" />
         <mark key="." line="0" column="63" />
       </file>
-      <file name="$USER_HOME$/Code/css-layout-screencast/portfolio/pf-base.css" timestamp="1481015285920">
-        <mark key="[" line="4" column="25" />
-        <mark key="]" line="5" column="26" />
-        <mark key="^" line="5" column="26" />
-        <mark key="." line="5" column="26" />
+      <file name="$USER_HOME$/Code/css-layout-screencast/portfolio/pf-base.css" timestamp="1481023046687">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="15" column="25" />
+        <mark key="]" line="15" column="15" />
+        <mark key="." line="15" column="15" />
+        <mark key="^" line="15" column="15" />
       </file>
       <file name="$USER_HOME$/Code/deeplearn-client/gulpfile.js" timestamp="1477402813748">
         <mark key="'" line="20" column="17" />
@@ -217,10 +219,11 @@
       <jump line="87" column="0" filename="$USER_HOME$/Code/deeplearn-client/src/containers/DeeplearnApp/DeeplearnApp.jsx" />
       <jump line="131" column="11" filename="$USER_HOME$/Code/deeplearn-client/src/components/TokenDisplay.jsx" />
       <jump line="69" column="20" filename="$USER_HOME$/Code/deeplearn-client/src/components/Token.jsx" />
+      <jump line="8" column="0" filename="$USER_HOME$/Code/css-layout-screencast/portfolio/pf-base.css" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBmbGV4OiAxOwo=</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="-" type="4">
         <text>gh</text>
@@ -229,34 +232,34 @@
         <text encoding="base64">XDxFUlJPUl9NRVNTQUdFX1NUWUxFXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InBmLWdyaWQtaXRlbSBwZi1iZy1jb2xvcjEiPjwvZGl2Pgo=</text>
+        <text encoding="base64">LnBmLWJnLWJyYW5kLTEge30K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBmbGV4OiAxOwo=</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB3aWR0aDogNTBlbTsK</text>
+        <text encoding="base64">ICAgIDxkaXY+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0icGYtZ3JpZC1pdGVtIj4KICAgICAgICA8cD5QcmFlc2VudCBwaGFyZXRyYSB2ZWhpY3VsYSBvcmNpLCBhdCB2YXJpdXMgaXBzdW0gc29kYWxlcyB2ZWwuIEFsaXF1YW0gZXJhdCB2b2x1dHBhdC4gRG9uZWMgZWdldCBhcmN1IHB1cnVzLgogICAgICAgICAgQ3JhcyBwbGFjZXJhdCBtb2xsaXMgZmFjaWxpc2lzLiBTZWQgYWMgcXVhbSBub24gaXBzdW0gcG9ydHRpdG9yIHRlbXB1cy4gTnVsbGFtIHBoYXJldHJhIGFudGUgbm9uIGxlY3R1cyBvcm5hcmUKICAgICAgICAgIHZ1bHB1dGF0ZS4gUHJvaW4gdmVoaWN1bGEgZmFjaWxpc2lzIGVyYXQsIGlkIHRyaXN0aXF1ZSBuaXNpIGZldWdpYXQgYWMuIE51bmMgbmVjIGxlbyBub24gZXN0IHZpdmVycmEgcGxhY2VyYXQKICAgICAgICAgIGV1IHF1aXMgbG9yZW0uPC9wPgogICAgICAgIDxwPjxhIGhyZWY9IiMiPkxlYXJuIG1vcmUg4p6dPC9hPjwvcD4KICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJwZi1ncmlkIj4KICAgIDxkaXYgY2xhc3M9InBmLWdyaWQtaXRlbSBwZi1iZy1wYXR0ZXJuIj4KICAgICAgPHA+UHJhZXNlbnQgcGhhcmV0cmEgdmVoaWN1bGEgb3JjaSwgYXQgdmFyaXVzIGlwc3VtIHNvZGFsZXMgdmVsLiBBbGlxdWFtIGVyYXQgdm9sdXRwYXQuIERvbmVjIGVnZXQgYXJjdSBwdXJ1cy4KICAgICAgICAgQ3JhcyBwbGFjZXJhdCBtb2xsaXMgZmFjaWxpc2lzLiBTZWQgYWMgcXVhbSBub24gaXBzdW0gcG9ydHRpdG9yIHRlbXB1cy4gTnVsbGFtIHBoYXJldHJhIGFudGUgbm9uIGxlY3R1cyBvcm5hcmUKICAgICAgICAgdnVscHV0YXRlLiBQcm9pbiB2ZWhpY3VsYSBmYWNpbGlzaXMgZXJhdCwgaWQgdHJpc3RpcXVlIG5pc2kgZmV1Z2lhdCBhYy4gTnVuYyBuZWMgbGVvIG5vbiBlc3Qgdml2ZXJyYSBwbGFjZXJhdAogICAgICAgICBldSBxdWlzIGxvcmVtLjwvcD4KICAgICAgPHA+PGEgaHJlZj0iIyI+TGVhcm4gbW9yZSDinp08L2E+PC9wPgogICAgPC9kaXY+CiAgICA8ZGl2IGNsYXNzPSJwZi1ncmlkLWl0ZW0gcGYtYmctYnJhbmQtMSI+CiAgICAgIDxoMT5Db25zdWx0aW5nPC9oMT4KICAgIDwvZGl2PgogICAgPGRpdiBjbGFzcz0icGYtZ3JpZC1pdGVtIHBmLWJnLWJyYW5kLTIiPgogICAgICA8aDE+VHJhaW5pbmc8L2gxPgogICAgPC9kaXY+CiAgICA8ZGl2IGNsYXNzPSJwZi1ncmlkLWl0ZW0gcGYtYmctYnJhbmQtMyI+CiAgICAgIDxoMT5TcGVha2luZzwvaDE+CiAgICA8L2Rpdj4KICAgIDxkaXYgY2xhc3M9InBmLWdyaWQtaXRlbSBwZi1iZy1icmFuZC0xIj4KICAgICAgPGgxPldyaXRpbmc8L2gxPgogICAgPC9kaXY+CiAgICA8ZGl2IGNsYXNzPSJwZi1ncmlkLWl0ZW0gcGYtYmctYnJhbmQtMiI+CiAgICAgIDxoMT5PcGVuIFNvdXJjZTwvaDE+CiAgICA8L2Rpdj4KICA8L2Rpdj4K</text>
+        <text encoding="base64">ICBjb2xvcjogdmFyKC0tcGYtY29sb3ItYmxhY2spOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb2xvcjogdmFyKC0tcGYtY29sb3ItZGFya2JsdWUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICBwYWRkaW5nOiA1dnc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBwYWRkaW5nOiA1dnc7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QG1lZGlhIG1pIHsK</text>
+        <text encoding="base64">Ym9keSB7CiAgZm9udC1zaXplOiAxNnB4OwogIGZvbnQtZmFtaWx5OiAnUFQgU2FucycsIHNhbnMtc2VyaWY7CiAgYmFja2dyb3VuZC1jb2xvcjogI2ZmZmZmZjsKICBtYXJnaW46IDA7Cn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBoZWlnaHQ6IDEwMHZoOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -278,8 +281,8 @@
         <entry>6</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>W</entry>
         <entry>vsplit</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
