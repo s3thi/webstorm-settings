@@ -72,12 +72,12 @@
         <mark key="." line="25" column="37" />
         <mark key="^" line="25" column="37" />
       </file>
-      <file name="$USER_HOME$/Code/css-layout-screencast/portfolio/index-flex.html" timestamp="1481632049141">
+      <file name="$USER_HOME$/Code/css-layout-screencast/portfolio/index-flex.html" timestamp="1481635357751">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="16" column="8" />
-        <mark key="]" line="24" column="9" />
-        <mark key="." line="24" column="9" />
-        <mark key="^" line="24" column="9" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="19" column="9" />
       </file>
       <file name="$APPLICATION_PLUGINS_DIR$/scratches/scratch.txt" timestamp="1477647776559">
         <mark key="'" line="0" column="22" />
@@ -104,12 +104,12 @@
         <mark key="^" line="4" column="21" />
         <mark key="." line="4" column="21" />
       </file>
-      <file name="$USER_HOME$/Code/css-layout-screencast/portfolio/pf-flexbox.css" timestamp="1481633986683">
-        <mark key="'" line="33" column="18" />
-        <mark key="[" line="51" column="50" />
-        <mark key="]" line="74" column="26" />
-        <mark key="." line="74" column="26" />
-        <mark key="^" line="74" column="26" />
+      <file name="$USER_HOME$/Code/css-layout-screencast/portfolio/pf-flexbox.css" timestamp="1481635365204">
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="63" column="26" />
       </file>
       <file name="$USER_HOME$/Code/deeplearn-client/src/common.js" timestamp="1477384008494">
         <mark key="[" line="0" column="57" />
@@ -231,10 +231,11 @@
       <jump line="37" column="18" filename="$USER_HOME$/Code/css-layout-screencast/portfolio/pf-flexbox.css" />
       <jump line="20" column="32" filename="$USER_HOME$/Code/css-layout-screencast/portfolio/index-flex.html" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/css-layout-screencast/portfolio/index-flex.html" />
+      <jump line="71" column="0" filename="$USER_HOME$/Code/css-layout-screencast/portfolio/pf-flexbox.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LnBmLXNvY2lhbC1pY29uIHsKICBoZWlnaHQ6IDJlbTsKICB3aWR0aDogMmVtOwogIG1hcmdpbjogMC4yNWVtOwogIGZpbHRlcjogaW52ZXJ0KDEpOwp9CgoucGYtc29jaWFsLWljb25zIHsKICBtYXJnaW4tbGVmdDogLTAuMjVlbTsKfQoK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -246,31 +247,31 @@
         <text encoding="base64">IGNsYXNzPSJwZi1zb2NpYWwtaWNvbiI=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LnBmLXNvY2lhbC1pY29uIHsKICBoZWlnaHQ6IDJlbTsKICB3aWR0aDogMmVtOwogIG1hcmdpbjogMC4yNWVtOwogIGZpbHRlcjogaW52ZXJ0KDEpOwp9CgoucGYtc29jaWFsLWljb25zIHsKICBtYXJnaW4tbGVmdDogLTAuMjVlbTsKfQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgPHAgY2xhc3M9InBmLXNvY2lhbC1pY29ucyI+CiAgICAgICAgPGEgaHJlZj0iIyI+PGltZyBjbGFzcz0icGYtc29jaWFsLWljb24iIHNyYz0iLi4vaWNvbnMvc3ZnL3R3aXR0ZXItbG9nby5zdmciIGFsdD0idHdpdHRlciI+PC9hPgogICAgICAgIDxhIGhyZWY9IiMiPjxpbWcgY2xhc3M9InBmLXNvY2lhbC1pY29uIiBzcmM9Ii4uL2ljb25zL3N2Zy9iZWhhbmNlLWxvZ28uc3ZnIiBhbHQ9ImJlaGFuY2UiPjwvYT4KICAgICAgICA8YSBocmVmPSIjIj48aW1nIGNsYXNzPSJwZi1zb2NpYWwtaWNvbiIgc3JjPSIuLi9pY29ucy9zdmcvc29jaWFsLnN2ZyIgYWx0PSJnaXRodWIiPjwvYT4KICAgICAgPC9wPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBhbGlnbi1zZWxmOiBmbGV4LWVuZDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB3aWR0aDogMTAwJTsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LnBmLWdyaWQtaXRlbSBhIHsK</text>
+        <text encoding="base64">ICBhbGlnbi1zZWxmOiBmbGV4LWVuZDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8cD48YSBocmVmPSIjIj5MZWFybiBtb3JlIOKenTwvYT48L3A+Cg==</text>
+        <text encoding="base64">ICB3aWR0aDogMTAwJTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8cD48YSBocmVmPSIjIj5MZWFybiBtb3JlIOKenTwvYT48L3A+Cg==</text>
+        <text encoding="base64">LnBmLWdyaWQtaXRlbSBhIHsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICA8cD48YSBocmVmPSIjIj5MZWFybiBtb3JlIOKenTwvYT48L3A+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8cD48YSBocmVmPSIjIj5MZWFybiBtb3JlIOKenTwvYT48L3A+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
