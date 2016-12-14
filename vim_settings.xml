@@ -89,6 +89,11 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/css-layout-screencast/portfolio/flex/pf-flexbox.css" timestamp="1481709240191">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/deeplearn-client/src/components/TokenDisplay.jsx" timestamp="1477648067670">
         <mark key="'" line="131" column="11" />
         <mark key="[" line="13" column="0" />
@@ -114,18 +119,18 @@
         <mark key="^" line="0" column="63" />
         <mark key="." line="0" column="63" />
       </file>
-      <file name="$USER_HOME$/Code/css-layout-screencast/portfolio/grid/pf-grid.css" timestamp="1481706060491">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="15" />
-        <mark key="^" line="1" column="15" />
-        <mark key="." line="1" column="15" />
+      <file name="$USER_HOME$/Code/css-layout-screencast/portfolio/grid/pf-grid.css" timestamp="1481709681552">
+        <mark key="[" line="13" column="18" />
+        <mark key="]" line="14" column="26" />
+        <mark key="^" line="14" column="26" />
+        <mark key="." line="14" column="26" />
       </file>
-      <file name="$USER_HOME$/Code/css-layout-screencast/portfolio/pf-base.css" timestamp="1481023046687">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="15" column="25" />
-        <mark key="]" line="15" column="15" />
-        <mark key="." line="15" column="15" />
-        <mark key="^" line="15" column="15" />
+      <file name="$USER_HOME$/Code/css-layout-screencast/portfolio/pf-base.css" timestamp="1481708106722">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="53" column="13" />
       </file>
       <file name="$USER_HOME$/Code/deeplearn-client/gulpfile.js" timestamp="1477402813748">
         <mark key="'" line="20" column="17" />
@@ -247,10 +252,14 @@
       <jump line="20" column="32" filename="$USER_HOME$/Code/css-layout-screencast/portfolio/index-flex.html" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/css-layout-screencast/portfolio/index-flex.html" />
       <jump line="71" column="0" filename="$USER_HOME$/Code/css-layout-screencast/portfolio/pf-flexbox.css" />
+      <jump line="31" column="20" filename="$USER_HOME$/Code/css-layout-screencast/portfolio/flex/pf-flexbox.css" />
+      <jump line="5" column="0" filename="$USER_HOME$/Code/css-layout-screencast/portfolio/pf-base.css" />
+      <jump line="51" column="0" filename="$USER_HOME$/Code/css-layout-screencast/portfolio/pf-base.css" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/css-layout-screencast/portfolio/pf-base.css" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LnBmLXNvY2lhbC1pY29uIHsKICBoZWlnaHQ6IDJlbTsKICB3aWR0aDogMmVtOwogIG1hcmdpbjogMC4yNWVtOwogIGZpbHRlcjogaW52ZXJ0KDEpOwp9CgoucGYtc29jaWFsLWljb25zIHsKICBtYXJnaW4tbGVmdDogLTAuMjVlbTsKfQoK</text>
+        <text encoding="base64">ICAgIGdyaWQtdGVtcGxhdGUtcm93czogMWZyIDFmcjsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -258,35 +267,35 @@
       <register name="/" type="4">
         <text encoding="base64">XDxFUlJPUl9NRVNTQUdFX1NUWUxFXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IGNsYXNzPSJwZi1zb2NpYWwtaWNvbiI=</text>
+      <register name="0" type="2">
+        <text encoding="base64">LnBmLXNpZGViYXIgewogIGJhY2tncm91bmQtY29sb3I6IHZhcigtLXBmLWNvbG9yLWRhcmtibHVlKTsKICBjb2xvcjogdmFyKC0tcGYtY29sb3ItZGltd2hpdGUpOwogIHBhZGRpbmc6IHZhcigtLXBmLXBhZGRpbmctY29udGVudCk7Cn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LnBmLXNvY2lhbC1pY29uIHsKICBoZWlnaHQ6IDJlbTsKICB3aWR0aDogMmVtOwogIG1hcmdpbjogMC4yNWVtOwogIGZpbHRlcjogaW52ZXJ0KDEpOwp9CgoucGYtc29jaWFsLWljb25zIHsKICBtYXJnaW4tbGVmdDogLTAuMjVlbTsKfQoK</text>
+        <text encoding="base64">ICAgIGdyaWQtdGVtcGxhdGUtcm93czogMWZyIDFmcjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPHAgY2xhc3M9InBmLXNvY2lhbC1pY29ucyI+CiAgICAgICAgPGEgaHJlZj0iIyI+PGltZyBjbGFzcz0icGYtc29jaWFsLWljb24iIHNyYz0iLi4vaWNvbnMvc3ZnL3R3aXR0ZXItbG9nby5zdmciIGFsdD0idHdpdHRlciI+PC9hPgogICAgICAgIDxhIGhyZWY9IiMiPjxpbWcgY2xhc3M9InBmLXNvY2lhbC1pY29uIiBzcmM9Ii4uL2ljb25zL3N2Zy9iZWhhbmNlLWxvZ28uc3ZnIiBhbHQ9ImJlaGFuY2UiPjwvYT4KICAgICAgICA8YSBocmVmPSIjIj48aW1nIGNsYXNzPSJwZi1zb2NpYWwtaWNvbiIgc3JjPSIuLi9pY29ucy9zdmcvc29jaWFsLnN2ZyIgYWx0PSJnaXRodWIiPjwvYT4KICAgICAgPC9wPgo=</text>
+        <text encoding="base64">ICAgIGdyaWQtdGVtcGxhdGUtY29sdW1uczogMTAwdnc7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhbGlnbi1zZWxmOiBmbGV4LWVuZDsK</text>
+        <text encoding="base64">ICAucGYtY29udGVudCB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB3aWR0aDogMTAwJTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LnBmLWdyaWQtaXRlbSBhIHsK</text>
+        <text encoding="base64">ICAKfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8cD48YSBocmVmPSIjIj5MZWFybiBtb3JlIOKenTwvYT48L3A+Cg==</text>
+        <text encoding="base64">ICAucGYtCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8cD48YSBocmVmPSIjIj5MZWFybiBtb3JlIOKenTwvYT48L3A+Cg==</text>
+        <text encoding="base64">ICAgIHdpZHRoOiAxMDB2dzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
