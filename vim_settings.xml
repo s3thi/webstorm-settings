@@ -62,6 +62,12 @@
         <mark key="." line="2" column="39" />
         <mark key="^" line="2" column="39" />
       </file>
+      <file name="$USER_HOME$/Code/css-layout-screencast/news/grid/nw-grid.css" timestamp="1481807585611">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="1" column="14" />
+        <mark key="^" line="1" column="14" />
+        <mark key="." line="1" column="14" />
+      </file>
       <file name="$USER_HOME$/Code/deeplearn-client/src/constants.js" timestamp="1477651965429">
         <mark key="'" line="19" column="27" />
         <mark key="[" line="25" column="37" />
@@ -88,6 +94,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="8" column="33" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/css-layout-screencast/news/flex/nw-flex.css" timestamp="1481806844985">
+        <mark key="[" line="64" column="16" />
+        <mark key="]" line="59" column="15" />
+        <mark key="." line="59" column="15" />
+        <mark key="^" line="59" column="15" />
       </file>
       <file name="$USER_HOME$/Code/css-layout-screencast/portfolio/flex/pf-flexbox.css" timestamp="1481709240191">
         <mark key="[" line="35" column="0" />
@@ -125,11 +137,11 @@
         <mark key="^" line="44" column="8" />
         <mark key="." line="44" column="8" />
       </file>
-      <file name="$USER_HOME$/Code/css-layout-screencast/news/nw-base.css" timestamp="1481718084753">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Code/css-layout-screencast/news/nw-base.css" timestamp="1481806158811">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="11" column="26" />
       </file>
       <file name="$USER_HOME$/Code/css-layout-screencast/portfolio/pf-base.css" timestamp="1481708106722">
         <mark key="'" line="0" column="0" />
@@ -145,6 +157,7 @@
         <mark key="." line="27" column="41" />
         <mark key="^" line="27" column="41" />
       </file>
+      <file name="$USER_HOME$/Code/css-layout-screencast/news/grid/index.html" timestamp="1481807417610" />
       <file name="$USER_HOME$/Code/css-layout-screencast/portfolio/flex/index.html" timestamp="1481705162885">
         <mark key="[" line="7" column="38" />
         <mark key="]" line="7" column="33" />
@@ -170,11 +183,12 @@
         <mark key="^" line="31" column="76" />
         <mark key="." line="31" column="76" />
       </file>
-      <file name="$USER_HOME$/Code/css-layout-screencast/news/flex/index.html" timestamp="1481795203380">
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="^" line="140" column="33" />
-        <mark key="." line="109" column="0" />
+      <file name="$USER_HOME$/Code/css-layout-screencast/news/flex/index.html" timestamp="1481805909211">
+        <mark key="'" line="126" column="2" />
+        <mark key="[" line="53" column="31" />
+        <mark key="]" line="68" column="45" />
+        <mark key="." line="68" column="45" />
+        <mark key="^" line="68" column="45" />
       </file>
       <file name="$USER_HOME$/Code/deeplearn-client/src/components/ParsingsSwitcherTile.jsx" timestamp="1477572512788">
         <mark key="'" line="49" column="46" />
@@ -268,49 +282,50 @@
       <jump line="5" column="0" filename="$USER_HOME$/Code/css-layout-screencast/portfolio/pf-base.css" />
       <jump line="51" column="0" filename="$USER_HOME$/Code/css-layout-screencast/portfolio/pf-base.css" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/css-layout-screencast/portfolio/pf-base.css" />
+      <jump line="97" column="2" filename="$USER_HOME$/Code/css-layout-screencast/news/flex/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxuYXY+CiAgICAgIDx1bD4KICAgICAgICA8bGk+QXV0b21vYmlsZXM8L2xpPgogICAgICAgIDxsaT5Dcm9zc3dvcmQ8L2xpPgogICAgICAgIDxsaT5Gb29kPC9saT4KICAgICAgICA8bGk+RWR1Y2F0aW9uPC9saT4KICAgICAgICA8bGk+RmFzaGlvbiAmIFN0eWxlPC9saT4KICAgICAgICA8bGk+SGVhbHRoPC9saT4KICAgICAgICA8bGk+Sm9iczwvbGk+CiAgICAgICAgPGxpPk1hZ2F6aW5lPC9saT4KICAgICAgICA8bGk+Ti5ZLkMuIEV2ZW50cyBHdWlkZTwvbGk+CiAgICAgICAgPGxpPlJlYWwgRXN0YXRlPC9saT4KICAgICAgICA8bGk+VCBNYWdhemluZTwvbGk+CiAgICAgICAgPGxpPlRyYXZlbDwvbGk+CiAgICAgICAgPGxpPldlZGRpbmdzICYgQ2VsZWJyYXRpb25zPC9saT4KICAgICAgPC91bD4KICAgIDwvbmF2PgogICAgPG5hdj4KICAgICAgPHVsPgogICAgICAgIDxsaT5DbGFzc2lmaWVkczwvbGk+CiAgICAgICAgPGxpPlRvb2xzICYgU2VydmljZXM8L2xpPgogICAgICAgIDxsaT5UaW1lcyBUb3BpY3M8L2xpPgogICAgICAgIDxsaT5QdWJsaWMgRWRpdG9yPC9saT4KICAgICAgICA8bGk+Ti5ZLkMuIEV2ZW50cyBHdWlkZTwvbGk+CiAgICAgICAgPGxpPkJsb2dzPC9saT4KICAgICAgICA8bGk+TXVsdGltZWRpYTwvbGk+CiAgICAgICAgPGxpPlBob3RvZ3JhcGh5PC9saT4KICAgICAgICA8bGk+VmlkZW88L2xpPgogICAgICAgIDxsaT5OWVQgU3RvcmU8L2xpPgogICAgICAgIDxsaT5UaW1lcyBKb3VybmV5czwvbGk+CiAgICAgICAgPGxpPlN1YnNjcmliZTwvbGk+CiAgICAgICAgPGxpPk1hbmFnZSBNeSBBY2NvdW50PC9saT4KICAgICAgPC91bD4KICAgIDwvbmF2Pgo=</text>
+        <text encoding="base64">ICBtYXJnaW46IDF2dzsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFUlJPUl9NRVNTQUdFX1NUWUxFXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">PGxpPg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICA8bGk+PC9saT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxuYXY+CiAgICAgIDx1bD4KICAgICAgICA8bGk+QXV0b21vYmlsZXM8L2xpPgogICAgICAgIDxsaT5Dcm9zc3dvcmQ8L2xpPgogICAgICAgIDxsaT5Gb29kPC9saT4KICAgICAgICA8bGk+RWR1Y2F0aW9uPC9saT4KICAgICAgICA8bGk+RmFzaGlvbiAmIFN0eWxlPC9saT4KICAgICAgICA8bGk+SGVhbHRoPC9saT4KICAgICAgICA8bGk+Sm9iczwvbGk+CiAgICAgICAgPGxpPk1hZ2F6aW5lPC9saT4KICAgICAgICA8bGk+Ti5ZLkMuIEV2ZW50cyBHdWlkZTwvbGk+CiAgICAgICAgPGxpPlJlYWwgRXN0YXRlPC9saT4KICAgICAgICA8bGk+VCBNYWdhemluZTwvbGk+CiAgICAgICAgPGxpPlRyYXZlbDwvbGk+CiAgICAgICAgPGxpPldlZGRpbmdzICYgQ2VsZWJyYXRpb25zPC9saT4KICAgICAgPC91bD4KICAgIDwvbmF2PgogICAgPG5hdj4KICAgICAgPHVsPgogICAgICAgIDxsaT5DbGFzc2lmaWVkczwvbGk+CiAgICAgICAgPGxpPlRvb2xzICYgU2VydmljZXM8L2xpPgogICAgICAgIDxsaT5UaW1lcyBUb3BpY3M8L2xpPgogICAgICAgIDxsaT5QdWJsaWMgRWRpdG9yPC9saT4KICAgICAgICA8bGk+Ti5ZLkMuIEV2ZW50cyBHdWlkZTwvbGk+CiAgICAgICAgPGxpPkJsb2dzPC9saT4KICAgICAgICA8bGk+TXVsdGltZWRpYTwvbGk+CiAgICAgICAgPGxpPlBob3RvZ3JhcGh5PC9saT4KICAgICAgICA8bGk+VmlkZW88L2xpPgogICAgICAgIDxsaT5OWVQgU3RvcmU8L2xpPgogICAgICAgIDxsaT5UaW1lcyBKb3VybmV5czwvbGk+CiAgICAgICAgPGxpPlN1YnNjcmliZTwvbGk+CiAgICAgICAgPGxpPk1hbmFnZSBNeSBBY2NvdW50PC9saT4KICAgICAgPC91bD4KICAgIDwvbmF2Pgo=</text>
+        <text encoding="base64">ICBtYXJnaW46IDF2dzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZsZXg6IDE7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDx1bD4KICAgICAgPGxpPldvcmxkPC9saT4KICAgICAgPGxpPlUuUy48L2xpPgogICAgICA8bGk+UG9saXRpY3M8L2xpPgogICAgICA8bGk+Ti5ZLjwvbGk+CiAgICAgIDxsaT5CdXNpbmVzczwvbGk+CiAgICAgIDxsaT5UZWNoPC9saT4KICAgICAgPGxpPlNjaWVuY2U8L2xpPgogICAgICA8bGk+SGVhbHRoPC9saT4KICAgICAgPGxpPlNwb3J0czwvbGk+CiAgICAgIDxsaT5FZHVjYXRpb248L2xpPgogICAgICA8bGk+T2JpdHVhcmllczwvbGk+CiAgICAgIDxsaT5Ub2RheSdzIFBhcGVyPC9saT4KICAgICAgPGxpPkNvcnJlY3Rpb25zPC9saT4KICAgIDwvdWw+Cg==</text>
+        <text encoding="base64">ICAgIGZsZXgtZGlyZWN0aW9uOiByb3c7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPGxpIGNsYXNzPSIiPk5FV1M8L2xpPgo=</text>
+        <text encoding="base64">ICAgIGRpc3BsYXk6IGZsZXg7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBvc2l0aW9uOiBmaXhlZDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGhlaWdodDogMTAwJTsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRpc3BsYXk6IGZpeGVkOwo=</text>
+        <text encoding="base64">ICB0ZXh0LWRlY29yYXRpb246IHVuZGVybGluZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGdyaWQtdGVtcGxhdGUtcm93czogMWZyIDFmcjsK</text>
+        <text encoding="base64">Zm9vdGVyIGgxIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGdyaWQtdGVtcGxhdGUtY29sdW1uczogMTAwdnc7Cg==</text>
+        <text encoding="base64">ICBib3gtc2hhZG93OiAjQzlBOTkyIDFweCAxcHggNXB4Owo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vsplit</text>
       </register>
     </registers>
     <search>
@@ -331,9 +346,9 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
         <entry>86</entry>
-        <entry>vsplit</entry>
         <entry>w'</entry>
         <entry>w</entry>
+        <entry>vsplit</entry>
       </history-cmd>
       <history-expr />
       <history-input />
