@@ -177,6 +177,12 @@
         <mark key="^" line="21" column="17" />
         <mark key="." line="21" column="17" />
       </file>
+      <file name="$USER_HOME$/Code/css-layout-screencast/app/app-base.css" timestamp="1481889354943">
+        <mark key="[" line="8" column="1" />
+        <mark key="]" line="12" column="25" />
+        <mark key="^" line="12" column="25" />
+        <mark key="." line="12" column="25" />
+      </file>
       <file name="$USER_HOME$/Code/css-layout-screencast/portfolio/grid/index.html" timestamp="1481705902961">
         <mark key="[" line="8" column="25" />
         <mark key="]" line="8" column="41" />
@@ -194,6 +200,12 @@
         <mark key="]" line="139" column="0" />
         <mark key="^" line="63" column="46" />
         <mark key="." line="139" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/css-layout-screencast/app/flex/index.html" timestamp="1481889159312">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="4" column="52" />
+        <mark key="^" line="4" column="52" />
+        <mark key="." line="4" column="52" />
       </file>
       <file name="$USER_HOME$/Code/deeplearn-client/src/components/ParsingsSwitcherTile.jsx" timestamp="1477572512788">
         <mark key="'" line="49" column="46" />
