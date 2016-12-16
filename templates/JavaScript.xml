@@ -1,8 +1,8 @@
 <templateSet group="JavaScript">
   <template name="clog" value="console.log('$END$');" description="Adds a console.log" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
   <template name="prop" value="React.PropTypes." description="Inserts a React PropType" toReformat="false" toShortenFQNames="true">
@@ -22,9 +22,7 @@
     </context>
   </template>
   <template name="us" value="'use strict';&#10;$END$" description="Inserts 'use strict' statement" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="JS_STATEMENT" value="true" />
-    </context>
+    <context />
   </template>
   <template name="esdl" value="// eslint-disable-line $WARNING_TYPE$" description="Inserts an eslint-disable-line comment" toReformat="false" toShortenFQNames="true">
     <variable name="WARNING_TYPE" expression="" defaultValue="" alwaysStopAt="true" />
