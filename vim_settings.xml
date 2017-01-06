@@ -59,11 +59,11 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/Code/ankursethi.in/scripts/build.js" timestamp="1483699283755">
-        <mark key="[" line="3" column="1" />
-        <mark key="]" line="7" column="12" />
-        <mark key="^" line="7" column="12" />
-        <mark key="." line="7" column="12" />
+      <file name="$USER_HOME$/Code/ankursethi.in/scripts/build.js" timestamp="1483701002942">
+        <mark key="[" line="15" column="26" />
+        <mark key="]" line="14" column="1" />
+        <mark key="." line="14" column="1" />
+        <mark key="^" line="14" column="1" />
       </file>
       <file name="$USER_HOME$/Code/deeplearn-client/src/components/Token.jsx" timestamp="1477647788187">
         <mark key="'" line="69" column="20" />
@@ -372,7 +372,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi1yaWdodDogYXV0bzsK</text>
+        <text encoding="base64">ICAvLyBkZWxldGUgcHJldmlvdXMgYnVpbGQgZGlyZWN0b3J5Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Y2xhc3NOYW1lPSJBcHAiPg==</text>
@@ -384,31 +384,31 @@
         <text encoding="base64">ICAgIG1hcmdpbi10b3A6IDRlbTsKICAgIG1hcmdpbi1sZWZ0OiAxZW07CiAgICBtYXJnaW4tcmlnaHQ6IDFlbTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi1yaWdodDogYXV0bzsK</text>
+        <text encoding="base64">ICAvLyBkZWxldGUgcHJldmlvdXMgYnVpbGQgZGlyZWN0b3J5Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi1sZWZ0OiBhdXRvOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhfX2Rpcm5hbWUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnSEVMTE8nKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QG1lZGlhIChtYXgtd2lkdGg6IDQyNXB4KSB7CiAgLm1haW4gewogICAgbWFyZ2luLXRvcDogNGVtOwogIH0KfQo=</text>
+        <text encoding="base64">ICAgIG1hcmdpbi1yaWdodDogYXV0bzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi1yaWdodDogMWVtOwo=</text>
+        <text encoding="base64">ICAgIG1hcmdpbi1sZWZ0OiBhdXRvOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi1sZWZ0OiAxZW07Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIG1hcgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">QG1lZGlhIChtYXgtd2lkdGg6IDQyNXB4KSB7CiAgLm1haW4gewogICAgbWFyZ2luLXRvcDogNGVtOwogIH0KfQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIG1hcmdpbi1yaWdodDogMWVtOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">QG1lZGlhIHNjcmVlbiBhbmQgKG1heC13aWR0aDogNzMycHgpIHsKICAubWFpbiB7CiAgICBtYXJnaW4tdG9wOiA0ZW07CiAgICBtYXJnaW4tbGVmdDogMWVtOwogICAgbWFyZ2luLXJpZ2h0OiAxZW07CiAgfQp9Cg==</text>
+        <text encoding="base64">ICAgIG1hcmdpbi1sZWZ0OiAxZW07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -433,8 +433,8 @@
         <entry>86</entry>
         <entry>w'</entry>
         <entry>vsplit</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
