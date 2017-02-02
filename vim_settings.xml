@@ -28,11 +28,23 @@
         <mark key="^" line="17" column="29" />
         <mark key="." line="17" column="29" />
       </file>
-      <file name="$USER_HOME$/Code/adya/permissions/src/index.js" timestamp="1486025000596">
-        <mark key="[" line="6" column="33" />
-        <mark key="]" line="6" column="30" />
-        <mark key="^" line="6" column="30" />
-        <mark key="." line="6" column="30" />
+      <file name="$USER_HOME$/Code/adya/permissions/src/urls.js" timestamp="1486029308928">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+      </file>
+      <file name="$USER_HOME$/Code/adya/permissions/src/PermissionsApp/container.jsx" timestamp="1486028836180">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="8" column="37" />
+        <mark key="^" line="8" column="37" />
+        <mark key="." line="8" column="37" />
+      </file>
+      <file name="$USER_HOME$/Code/adya/permissions/src/index.js" timestamp="1486029086469">
+        <mark key="'" line="18" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Code/deeplearn-client/src/components/Token.jsx" timestamp="1477647788187">
         <mark key="'" line="69" column="20" />
@@ -158,6 +170,12 @@
         <mark key="^" line="30" column="6" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/adya/permissions/src/PermissionsApp/reducer.js" timestamp="1486029105797">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+        <mark key="^" line="0" column="21" />
+      </file>
       <file name="$USER_HOME$/Code/deeplearn-client/src/containers/DeeplearnApp/DeeplearnApp.jsx" timestamp="1477576166631">
         <mark key="'" line="87" column="0" />
         <mark key="[" line="28" column="28" />
@@ -165,11 +183,11 @@
         <mark key="." line="28" column="32" />
         <mark key="^" line="28" column="32" />
       </file>
-      <file name="$USER_HOME$/Code/adya/permissions/src/PermissionsApp/PermissionsApp.jsx" timestamp="1486025151646">
-        <mark key="[" line="4" column="31" />
-        <mark key="]" line="4" column="14" />
-        <mark key="^" line="4" column="14" />
-        <mark key="." line="4" column="14" />
+      <file name="$USER_HOME$/Code/adya/permissions/src/PermissionsApp/PermissionsApp.jsx" timestamp="1486028560589">
+        <mark key="[" line="0" column="32" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="14" />
       </file>
       <file name="$USER_HOME$/Code/figwasp/package.json" timestamp="1482408177845">
         <mark key="[" line="11" column="0" />
@@ -401,10 +419,11 @@
       <jump line="97" column="2" filename="$USER_HOME$/Code/css-layout-screencast/news/flex/index.html" />
       <jump line="31" column="0" filename="$USER_HOME$/Code/css-layout-screencast/news/nw-base.css" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/adya/permissions/.gitignore" />
+      <jump line="8" column="0" filename="$USER_HOME$/Code/adya/permissions/src/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDwhLS0KICAgICAgVGhpcyBIVE1MIGZpbGUgaXMgYSB0ZW1wbGF0ZS4KICAgICAgSWYgeW91IG9wZW4gaXQgZGlyZWN0bHkgaW4gdGhlIGJyb3dzZXIsIHlvdSB3aWxsIHNlZSBhbiBlbXB0eSBwYWdlLgoKICAgICAgWW91IGNhbiBhZGQgd2ViZm9udHMsIG1ldGEgdGFncywgb3IgYW5hbHl0aWNzIHRvIHRoaXMgZmlsZS4KICAgICAgVGhlIGJ1aWxkIHN0ZXAgd2lsbCBwbGFjZSB0aGUgYnVuZGxlZCBzY3JpcHRzIGludG8gdGhlIDxib2R5PiB0YWcuCgogICAgICBUbyBiZWdpbiB0aGUgZGV2ZWxvcG1lbnQsIHJ1biBgbnBtIHN0YXJ0YC4KICAgICAgVG8gY3JlYXRlIGEgcHJvZHVjdGlvbiBidW5kbGUsIHVzZSBgbnBtIHJ1biBidWlsZGAuCiAgICAtLT4K</text>
+        <text encoding="base64">ICBuYW1lOiAnd2hhdCcK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Y2xhc3NOYW1lPSJBcHAiPg==</text>
@@ -416,31 +435,31 @@
         <text encoding="base64">ICAgIG1hcmdpbi10b3A6IDRlbTsKICAgIG1hcmdpbi1sZWZ0OiAxZW07CiAgICBtYXJnaW4tcmlnaHQ6IDFlbTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDwhLS0KICAgICAgVGhpcyBIVE1MIGZpbGUgaXMgYSB0ZW1wbGF0ZS4KICAgICAgSWYgeW91IG9wZW4gaXQgZGlyZWN0bHkgaW4gdGhlIGJyb3dzZXIsIHlvdSB3aWxsIHNlZSBhbiBlbXB0eSBwYWdlLgoKICAgICAgWW91IGNhbiBhZGQgd2ViZm9udHMsIG1ldGEgdGFncywgb3IgYW5hbHl0aWNzIHRvIHRoaXMgZmlsZS4KICAgICAgVGhlIGJ1aWxkIHN0ZXAgd2lsbCBwbGFjZSB0aGUgYnVuZGxlZCBzY3JpcHRzIGludG8gdGhlIDxib2R5PiB0YWcuCgogICAgICBUbyBiZWdpbiB0aGUgZGV2ZWxvcG1lbnQsIHJ1biBgbnBtIHN0YXJ0YC4KICAgICAgVG8gY3JlYXRlIGEgcHJvZHVjdGlvbiBidW5kbGUsIHVzZSBgbnBtIHJ1biBidWlsZGAuCiAgICAtLT4K</text>
+        <text encoding="base64">ICBuYW1lOiAnd2hhdCcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDwhLS0KICAgICAgTm90aWNlIHRoZSB1c2Ugb2YgJVBVQkxJQ19VUkwlIGluIHRoZSB0YWcgYWJvdmUuCiAgICAgIEl0IHdpbGwgYmUgcmVwbGFjZWQgd2l0aCB0aGUgVVJMIG9mIHRoZSBgcHVibGljYCBmb2xkZXIgZHVyaW5nIHRoZSBidWlsZC4KICAgICAgT25seSBmaWxlcyBpbnNpZGUgdGhlIGBwdWJsaWNgIGZvbGRlciBjYW4gYmUgcmVmZXJlbmNlZCBmcm9tIHRoZSBIVE1MLgoKICAgICAgVW5saWtlICIvZmF2aWNvbi5pY28iIG9yICJmYXZpY29uLmljbyIsICIlUFVCTElDX1VSTCUvZmF2aWNvbi5pY28iIHdpbGwKICAgICAgd29yayBjb3JyZWN0bHkgYm90aCB3aXRoIGNsaWVudC1zaWRlIHJvdXRpbmcgYW5kIGEgbm9uLXJvb3QgcHVibGljIFVSTC4KICAgICAgTGVhcm4gaG93IHRvIGNvbmZpZ3VyZSBhIG5vbi1yb290IHB1YmxpYyBVUkwgYnkgcnVubmluZyBgbnBtIHJ1biBidWlsZGAuCiAgICAtLT4K</text>
+        <text encoding="base64">Y29uc3Qgc3RvcmUgPSBjcmVhdGVTdG9yZShwZXJtaXNzaW9uc0FwcFJlZHVjZXIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0ICcuL2luZGV4LmNzcyc7Cg==</text>
+        <text encoding="base64">Y29uc3Qgc3RvcmUgPSBjcmVhdGVTdG9yZShwZXJtaXNzaW9uc0FwcFJlZHVjZXIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9Ii4vc3R5bGUuY3NzIj4K</text>
+        <text encoding="base64">ICAgIDwhLS0KICAgICAgVGhpcyBIVE1MIGZpbGUgaXMgYSB0ZW1wbGF0ZS4KICAgICAgSWYgeW91IG9wZW4gaXQgZGlyZWN0bHkgaW4gdGhlIGJyb3dzZXIsIHlvdSB3aWxsIHNlZSBhbiBlbXB0eSBwYWdlLgoKICAgICAgWW91IGNhbiBhZGQgd2ViZm9udHMsIG1ldGEgdGFncywgb3IgYW5hbHl0aWNzIHRvIHRoaXMgZmlsZS4KICAgICAgVGhlIGJ1aWxkIHN0ZXAgd2lsbCBwbGFjZSB0aGUgYnVuZGxlZCBzY3JpcHRzIGludG8gdGhlIDxib2R5PiB0YWcuCgogICAgICBUbyBiZWdpbiB0aGUgZGV2ZWxvcG1lbnQsIHJ1biBgbnBtIHN0YXJ0YC4KICAgICAgVG8gY3JlYXRlIGEgcHJvZHVjdGlvbiBidW5kbGUsIHVzZSBgbnBtIHJ1biBidWlsZGAuCiAgICAtLT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9Ii4vbm9ybWFsaXplLmNzcyI+Cg==</text>
+        <text encoding="base64">ICAgIDwhLS0KICAgICAgTm90aWNlIHRoZSB1c2Ugb2YgJVBVQkxJQ19VUkwlIGluIHRoZSB0YWcgYWJvdmUuCiAgICAgIEl0IHdpbGwgYmUgcmVwbGFjZWQgd2l0aCB0aGUgVVJMIG9mIHRoZSBgcHVibGljYCBmb2xkZXIgZHVyaW5nIHRoZSBidWlsZC4KICAgICAgT25seSBmaWxlcyBpbnNpZGUgdGhlIGBwdWJsaWNgIGZvbGRlciBjYW4gYmUgcmVmZXJlbmNlZCBmcm9tIHRoZSBIVE1MLgoKICAgICAgVW5saWtlICIvZmF2aWNvbi5pY28iIG9yICJmYXZpY29uLmljbyIsICIlUFVCTElDX1VSTCUvZmF2aWNvbi5pY28iIHdpbGwKICAgICAgd29yayBjb3JyZWN0bHkgYm90aCB3aXRoIGNsaWVudC1zaWRlIHJvdXRpbmcgYW5kIGEgbm9uLXJvb3QgcHVibGljIFVSTC4KICAgICAgTGVhcm4gaG93IHRvIGNvbmZpZ3VyZSBhIG5vbi1yb290IHB1YmxpYyBVUkwgYnkgcnVubmluZyBgbnBtIHJ1biBidWlsZGAuCiAgICAtLT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8c3R5bGU+Cg==</text>
+        <text encoding="base64">aW1wb3J0ICcuL2luZGV4LmNzcyc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA8L3N0eWxlPgo=</text>
+        <text encoding="base64">ICA8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9Ii4vc3R5bGUuY3NzIj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBkZWxldGUgcHJldmlvdXMgYnVpbGQgZGlyZWN0b3J5Cg==</text>
+        <text encoding="base64">ICA8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9Ii4vbm9ybWFsaXplLmNzcyI+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhfX2Rpcm5hbWUpOwo=</text>
+        <text encoding="base64">ICA8c3R5bGU+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
