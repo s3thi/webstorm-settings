@@ -40,11 +40,11 @@
         <mark key="^" line="3" column="124" />
         <mark key="." line="3" column="124" />
       </file>
-      <file name="$USER_HOME$/Code/adya/permissions/src/PermissionsApp/container.jsx" timestamp="1486119749261">
-        <mark key="[" line="6" column="33" />
-        <mark key="]" line="6" column="68" />
-        <mark key="." line="6" column="68" />
-        <mark key="^" line="6" column="68" />
+      <file name="$USER_HOME$/Code/adya/permissions/src/PermissionsApp/container.jsx" timestamp="1486120865289">
+        <mark key="[" line="29" column="45" />
+        <mark key="]" line="31" column="17" />
+        <mark key="." line="31" column="17" />
+        <mark key="^" line="31" column="17" />
       </file>
       <file name="$USER_HOME$/Code/adya/permissions/src/index.js" timestamp="1486033090903">
         <mark key="'" line="22" column="0" />
@@ -223,11 +223,12 @@
         <mark key="^" line="9" column="15" />
         <mark key="." line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/adya/permissions/src/FileTree/component.jsx" timestamp="1486119793542">
-        <mark key="[" line="6" column="31" />
-        <mark key="]" line="6" column="28" />
-        <mark key="^" line="6" column="28" />
-        <mark key="." line="6" column="28" />
+      <file name="$USER_HOME$/Code/adya/permissions/src/FileTree/component.jsx" timestamp="1486120873513">
+        <mark key="'" line="15" column="9" />
+        <mark key="[" line="9" column="105" />
+        <mark key="]" line="9" column="62" />
+        <mark key="^" line="9" column="62" />
+        <mark key="." line="9" column="62" />
       </file>
       <file name="$USER_HOME$/Code/ankursethi.in/package.json" timestamp="1483699356025">
         <mark key="[" line="4" column="19" />
@@ -433,13 +434,14 @@
       <jump line="8" column="0" filename="$USER_HOME$/Code/adya/permissions/src/index.js" />
       <jump line="26" column="0" filename="$USER_HOME$/Code/adya/permissions/src/PermissionsApp/actions.js" />
       <jump line="2" column="0" filename="$USER_HOME$/Code/adya/permissions/src/PermissionsApp/actions.js" />
+      <jump line="7" column="9" filename="$USER_HOME$/Code/adya/permissions/src/FileTree/component.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IGZldGNoVXNlcnMgPSAoKSA9PiAoeyB0eXBlOiBGRVRDSF9VU0VSUyB9KTsKZXhwb3J0IGNvbnN0IHJlY2VpdmVVc2VycyA9IHVzZXJzID0+ICh7IHR5cGU6IFJFQ0VJVkVfVVNFUlMsIHBheWxvYWQ6IHsgdXNlcnMgfSB9KTsKZXhwb3J0IGNvbnN0IGZldGNoVXNlcnNFcnJvciA9IGVycm9yID0+ICh7IHR5cGU6IEZFVENIX1VTRVJTX0VSUk9SLCBwYXlsb2FkOiB7IGVycm9yIH0gfSk7CgpleHBvcnQgY29uc3QgZmV0Y2hVc2Vyc1dvcmtmbG93ID0gKCkgPT4gewogIHJldHVybiBkaXNwYXRjaCA9PiB7CiAgICBkaXNwYXRjaChmZXRjaFVzZXJzKCkpOwogICAgZmV0Y2godXJscy51c2VycykKICAgICAgLnRoZW4ocmVzcG9uc2UgPT4gcmVzcG9uc2UuanNvbigpKQogICAgICAudGhlbih1c2VycyA9PiBkaXNwYXRjaChyZWNlaXZlVXNlcnModXNlcnMpKSkKICAgICAgLmNhdGNoKGUgPT4gewogICAgICAgIGRpc3BhdGNoKGZldGNoVXNlcnNFcnJvcihlKSk7CiAgICAgICAgdGhyb3cgZTsKICAgICAgfSk7CiAgfTsKfTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dGhpcy5wcm9wcy5maWxlcy5tYXAoZmlsZSA9PiA8bGkga2V5PXtmaWxlLmZpbGVfaWR9PntmaWxlLmZpbGVfbmFtZX08L2xpPik=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text encoding="base64">dGhpcy5wcm9wcy5maWxlcy5tYXAoZmlsZSA9PiA8bGkga2V5PXtmaWxlLmZpbGVfaWR9PntmaWxlLmZpbGVfbmFtZX08L2xpPik=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFUlJPUl9NRVNTQUdFX1NUWUxFXD4=</text>
