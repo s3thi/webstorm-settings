@@ -22,11 +22,11 @@
         <mark key="^" line="426" column="21" />
         <mark key="." line="426" column="21" />
       </file>
-      <file name="$USER_HOME$/Code/adya/permissions/src/FileTree/index.js" timestamp="1486374409480">
-        <mark key="[" line="1" column="33" />
-        <mark key="]" line="1" column="33" />
-        <mark key="^" line="1" column="33" />
-        <mark key="." line="1" column="33" />
+      <file name="$USER_HOME$/Code/adya/permissions/src/FileTree/index.js" timestamp="1486378566943">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="1" column="22" />
+        <mark key="^" line="1" column="22" />
+        <mark key="." line="1" column="22" />
       </file>
       <file name="$USER_HOME$/Code/adya/permissions/public/index.html" timestamp="1486025086138">
         <mark key="[" line="6" column="20" />
@@ -46,12 +46,12 @@
         <mark key="^" line="3" column="124" />
         <mark key="." line="3" column="124" />
       </file>
-      <file name="$USER_HOME$/Code/adya/permissions/src/PermissionsApp/container.jsx" timestamp="1486376328364">
-        <mark key="'" line="2" column="32" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="31" column="51" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/Code/adya/permissions/src/PermissionsApp/container.jsx" timestamp="1486378613870">
+        <mark key="'" line="31" column="8" />
+        <mark key="[" line="3" column="45" />
+        <mark key="]" line="3" column="32" />
+        <mark key="^" line="3" column="32" />
+        <mark key="." line="3" column="32" />
       </file>
       <file name="$USER_HOME$/Code/adya/permissions/src/index.js" timestamp="1486033090903">
         <mark key="'" line="22" column="0" />
@@ -146,12 +146,12 @@
         <mark key="^" line="124" column="31" />
         <mark key="." line="124" column="31" />
       </file>
-      <file name="$USER_HOME$/Code/adya/permissions/src/PermissionsApp/actions.js" timestamp="1486373908209">
+      <file name="$USER_HOME$/Code/adya/permissions/src/PermissionsApp/actions.js" timestamp="1486378720947">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="42" />
-        <mark key="." line="1" column="21" />
-        <mark key="^" line="1" column="21" />
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="17" />
+        <mark key="." line="1" column="17" />
+        <mark key="^" line="1" column="17" />
       </file>
       <file name="$USER_HOME$/Code/css-layout-screencast/portfolio/grid/index.html" timestamp="1481705902961">
         <mark key="[" line="8" column="25" />
@@ -183,11 +183,11 @@
         <mark key="^" line="30" column="6" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/adya/permissions/src/PermissionsApp/reducer.js" timestamp="1486373675125">
-        <mark key="[" line="18" column="58" />
-        <mark key="]" line="22" column="5" />
-        <mark key="." line="22" column="5" />
-        <mark key="^" line="22" column="5" />
+      <file name="$USER_HOME$/Code/adya/permissions/src/PermissionsApp/reducer.js" timestamp="1486378381726">
+        <mark key="[" line="29" column="18" />
+        <mark key="]" line="29" column="28" />
+        <mark key="." line="29" column="28" />
+        <mark key="^" line="29" column="28" />
       </file>
       <file name="$USER_HOME$/Code/adya/permissions/src/UserList/container.jsx" timestamp="1486117133503">
         <mark key="[" line="0" column="0" />
@@ -214,8 +214,8 @@
         <mark key="." line="25" column="20" />
         <mark key="^" line="25" column="20" />
       </file>
-      <file name="$USER_HOME$/Code/adya/permissions/src/FileTree/container.jsx" timestamp="1486375954853">
-        <mark key="[" line="6" column="20" />
+      <file name="$USER_HOME$/Code/adya/permissions/src/FileTree/container.jsx" timestamp="1486378136467">
+        <mark key="[" line="6" column="29" />
         <mark key="]" line="6" column="19" />
         <mark key="^" line="6" column="19" />
         <mark key="." line="6" column="19" />
@@ -233,11 +233,11 @@
         <mark key="^" line="9" column="15" />
         <mark key="." line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/adya/permissions/src/FileTree/component.jsx" timestamp="1486376388670">
-        <mark key="[" line="15" column="43" />
-        <mark key="]" line="17" column="16" />
-        <mark key="^" line="17" column="16" />
-        <mark key="." line="17" column="16" />
+      <file name="$USER_HOME$/Code/adya/permissions/src/FileTree/component.jsx" timestamp="1486378506898">
+        <mark key="[" line="17" column="34" />
+        <mark key="]" line="17" column="37" />
+        <mark key="^" line="17" column="37" />
+        <mark key="." line="17" column="37" />
       </file>
       <file name="$USER_HOME$/Code/ankursethi.in/package.json" timestamp="1483699356025">
         <mark key="[" line="4" column="19" />
@@ -289,7 +289,7 @@
         <mark key="^" line="15" column="5" />
         <mark key="." line="15" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1477650070120">
+      <file name="/Dummy.txt" timestamp="1486378650233">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="21" />
         <mark key="^" line="4" column="21" />
@@ -460,13 +460,14 @@
       <jump line="21" column="27" filename="$USER_HOME$/Code/adya/permissions/src/PermissionsApp/container.jsx" />
       <jump line="15" column="77" filename="$USER_HOME$/Code/adya/permissions/src/FileTree/component.jsx" />
       <jump line="2" column="32" filename="$USER_HOME$/Code/adya/permissions/src/PermissionsApp/container.jsx" />
+      <jump line="31" column="8" filename="$USER_HOME$/Code/adya/permissions/src/PermissionsApp/container.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZmV0Y2hpbmdGaWxlcz17dGhpcy5wcm9wcy5mZXRjaGluZ0ZpbGVzfQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGhpcy5wcm9wcy5maWxlcy5tYXAoZmlsZSA9PiA8bGkga2V5PXtmaWxlLmZpbGVfaWR9PntmaWxlLmZpbGVfbmFtZX08L2xpPik=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFUlJPUl9NRVNTQUdFX1NUWUxFXD4=</text>
@@ -537,6 +538,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
