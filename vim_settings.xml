@@ -56,12 +56,12 @@
         <mark key="^" line="33" column="77" />
         <mark key="." line="33" column="77" />
       </file>
-      <file name="$USER_HOME$/Code/adya/permissions/src/index.js" timestamp="1486033090903">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="13" column="2" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Code/adya/permissions/src/index.js" timestamp="1486460609370">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="7" />
+        <mark key="^" line="1" column="7" />
+        <mark key="." line="1" column="7" />
       </file>
       <file name="$USER_HOME$/Code/deeplearn-client/src/components/Token.jsx" timestamp="1477647788187">
         <mark key="'" line="69" column="20" />
@@ -186,7 +186,8 @@
         <mark key="^" line="30" column="6" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/adya/permissions/src/PermissionsApp/reducer.js" timestamp="1486385729111">
+      <file name="$USER_HOME$/Code/adya/permissions/src/PermissionsApp/reducer.js" timestamp="1486460584821">
+        <mark key="'" line="32" column="0" />
         <mark key="[" line="21" column="78" />
         <mark key="]" line="20" column="79" />
         <mark key="." line="20" column="79" />
@@ -241,6 +242,12 @@
         <mark key="]" line="6" column="41" />
         <mark key="^" line="6" column="41" />
         <mark key="." line="6" column="41" />
+      </file>
+      <file name="$USER_HOME$/Code/adya/permissions/package.json" timestamp="1486460484276">
+        <mark key="[" line="22" column="34" />
+        <mark key="]" line="23" column="16" />
+        <mark key="^" line="23" column="16" />
+        <mark key="." line="23" column="16" />
       </file>
       <file name="$USER_HOME$/Code/ankursethi.in/package.json" timestamp="1483699356025">
         <mark key="[" line="4" column="19" />
@@ -465,6 +472,7 @@
       <jump line="2" column="32" filename="$USER_HOME$/Code/adya/permissions/src/PermissionsApp/container.jsx" />
       <jump line="31" column="8" filename="$USER_HOME$/Code/adya/permissions/src/PermissionsApp/container.jsx" />
       <jump line="32" column="65" filename="$USER_HOME$/Code/adya/permissions/src/PermissionsApp/container.jsx" />
+      <jump line="32" column="0" filename="$USER_HOME$/Code/adya/permissions/src/PermissionsApp/reducer.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
