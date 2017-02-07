@@ -10,12 +10,12 @@
         <mark key="." line="9" column="28" />
         <mark key="^" line="9" column="28" />
       </file>
-      <file name="$USER_HOME$/Code/adya/permissions/src/UserList/component.jsx" timestamp="1486464395564">
+      <file name="$USER_HOME$/Code/adya/permissions/src/UserList/component.jsx" timestamp="1486466704443">
         <mark key="'" line="5" column="20" />
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="10" column="21" />
-        <mark key="." line="10" column="21" />
-        <mark key="^" line="10" column="21" />
+        <mark key="[" line="10" column="6" />
+        <mark key="]" line="10" column="9" />
+        <mark key="." line="10" column="9" />
+        <mark key="^" line="10" column="9" />
       </file>
       <file name="$USER_HOME$/Code/deeplearn-client/json/mock-001.json" timestamp="1476959338105">
         <mark key="[" line="426" column="23" />
@@ -50,12 +50,12 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/adya/permissions/src/PermissionsApp/container.jsx" timestamp="1486464414683">
+      <file name="$USER_HOME$/Code/adya/permissions/src/PermissionsApp/container.jsx" timestamp="1486466695368">
         <mark key="'" line="28" column="29" />
-        <mark key="[" line="22" column="11" />
-        <mark key="]" line="32" column="36" />
-        <mark key="^" line="32" column="36" />
-        <mark key="." line="32" column="36" />
+        <mark key="[" line="32" column="6" />
+        <mark key="]" line="32" column="9" />
+        <mark key="^" line="32" column="9" />
+        <mark key="." line="32" column="9" />
       </file>
       <file name="$USER_HOME$/Code/adya/permissions/src/index.js" timestamp="1486461297402">
         <mark key="'" line="22" column="0" />
@@ -243,11 +243,11 @@
         <mark key="^" line="9" column="15" />
         <mark key="." line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/adya/permissions/src/FileTree/component.jsx" timestamp="1486464621190">
-        <mark key="[" line="2" column="39" />
-        <mark key="]" line="8" column="38" />
-        <mark key="^" line="8" column="38" />
-        <mark key="." line="8" column="38" />
+      <file name="$USER_HOME$/Code/adya/permissions/src/FileTree/component.jsx" timestamp="1486467111942">
+        <mark key="[" line="13" column="31" />
+        <mark key="]" line="14" column="40" />
+        <mark key="^" line="14" column="40" />
+        <mark key="." line="14" column="40" />
       </file>
       <file name="$USER_HOME$/Code/adya/permissions/package.json" timestamp="1486460484276">
         <mark key="[" line="22" column="34" />
