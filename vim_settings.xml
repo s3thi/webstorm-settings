@@ -198,12 +198,12 @@
         <mark key="^" line="30" column="6" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/adya/permissions/src/PermissionsApp/reducer.js" timestamp="1486552564970">
+      <file name="$USER_HOME$/Code/adya/permissions/src/PermissionsApp/reducer.js" timestamp="1486557727726">
         <mark key="'" line="49" column="0" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="20" column="60" />
-        <mark key="." line="20" column="60" />
-        <mark key="^" line="20" column="60" />
+        <mark key="[" line="15" column="11" />
+        <mark key="]" line="15" column="10" />
+        <mark key="." line="15" column="10" />
+        <mark key="^" line="15" column="10" />
       </file>
       <file name="$USER_HOME$/Code/adya/permissions/src/UserList/container.jsx" timestamp="1486117133503">
         <mark key="[" line="0" column="0" />
