@@ -50,12 +50,12 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/adya/permissions/src/PermissionsApp/container.jsx" timestamp="1486466695368">
+      <file name="$USER_HOME$/Code/adya/permissions/src/PermissionsApp/container.jsx" timestamp="1486635599621">
         <mark key="'" line="28" column="29" />
-        <mark key="[" line="32" column="6" />
-        <mark key="]" line="32" column="9" />
-        <mark key="^" line="32" column="9" />
-        <mark key="." line="32" column="9" />
+        <mark key="[" line="10" column="13" />
+        <mark key="]" line="10" column="23" />
+        <mark key="." line="10" column="23" />
+        <mark key="^" line="10" column="23" />
       </file>
       <file name="$USER_HOME$/Code/adya/permissions/src/index.js" timestamp="1486461297402">
         <mark key="'" line="22" column="0" />
@@ -198,12 +198,11 @@
         <mark key="^" line="30" column="6" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/adya/permissions/src/PermissionsApp/reducer.js" timestamp="1486633572533">
-        <mark key="'" line="15" column="15" />
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="1" column="22" />
-        <mark key="." line="1" column="22" />
-        <mark key="^" line="1" column="22" />
+      <file name="$USER_HOME$/Code/adya/permissions/src/PermissionsApp/reducer.js" timestamp="1486635640493">
+        <mark key="[" line="38" column="41" />
+        <mark key="]" line="39" column="38" />
+        <mark key="^" line="39" column="38" />
+        <mark key="." line="39" column="38" />
       </file>
       <file name="$USER_HOME$/Code/adya/permissions/src/UserList/container.jsx" timestamp="1486117133503">
         <mark key="[" line="0" column="0" />
@@ -502,7 +501,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBmZXRjaGluZ0ZpbGVzRXJyb3I6IG51bGwsCg==</text>
+        <text encoding="base64">ICBnZXRGZXRjaGluZ0ZpbGVzOiAoc3RyaW5nKSA9PiBib29sZWFuLAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -514,31 +513,31 @@
         <text encoding="base64">ICAgICAgaWYgKCFhY3Rpb24ucGF5bG9hZCB8fCAhYWN0aW9uLnBheWxvYWQudXNlcikgewogICAgICAgIHJldHVybiB7IC4uLnN0YXRlLCBmZXRjaGluZ1VzZXJzRXJyb3I6IE1JU1NJTkdfREFUQSgndXNlcicpIH07CiAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBmZXRjaGluZ0ZpbGVzRXJyb3I6IG51bGwsCg==</text>
+        <text encoding="base64">ICBnZXRGZXRjaGluZ0ZpbGVzOiAoc3RyaW5nKSA9PiBib29sZWFuLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBmZXRjaGluZ1VzZXJzRXJyb3I6IG51bGwsCg==</text>
+        <text encoding="base64">ICBnZXRGZXRjaGluZ1VzZXJzOiAoKSA9PiBib29sZWFuLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCFhY3Rpb24ucGF5bG9hZCB8fCAhYWN0aW9uLnBheWxvYWQucm9vdCB8fCAhYWN0aW9uLnBheWxvYWQuZmlsZXMpIHsKICAgICAgICByZXR1cm4geyAuLi5zdGF0ZSwgZmV0Y2hpbmdGaWxlc0Vycm9yOiBNSVNTSU5HX0RBVEEoJ3Jvb3QsIGZpbGVzJykgfTsKICAgICAgfQoK</text>
+        <text encoding="base64">ICBnZXRGZXRjaGluZ0ZpbGVzOiByb290ID0+IHNlbGVjdG9ycy5nZXRGZXRjaGluZ0ZpbGVzKHN0YXRlLCByb290KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCFhY3Rpb24ucGF5bG9hZCB8fCAhYWN0aW9uLnBheWxvYWQucm9vdCkgewogICAgICAgIHJldHVybiB7IC4uLnN0YXRlLCBmZXRjaGluZ0ZpbGVzRXJyb3I6IE1JU1NJTkdfREFUQSgncm9vdCcpIH07CiAgICAgIH0KCg==</text>
+        <text encoding="base64">ICBnZXRGZXRjaGluZ1VzZXJzOiAoKSA9PiBzZWxlY3RvcnMuZ2V0RmV0Y2hpbmdVc2VycygpLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCFhY3Rpb24ucGF5bG9hZCB8fCAhYWN0aW9uLnBheWxvYWQudXNlcnMpIHsKICAgICAgICByZXR1cm4geyAuLi5zdGF0ZSwgZmV0Y2hpbmdVc2Vyc0Vycm9yOiBNSVNTSU5HX0RBVEEoJ3VzZXJzJykgfTsKICAgICAgfQoK</text>
+        <text encoding="base64">ICBmZXRjaGluZ1VzZXJzOiAoKSA9PiBzZWxlY3RvcnMuZ2V0RmV0Y2hpbmdVc2VycygpLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHtNSVNTSU5HX0RBVEF9IGZyb20gJy4uL2Vycm9ycyc7Cg==</text>
+        <text encoding="base64">ICBmaWxlczoge30K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgbWFrZUVycm9yID0gKHR5cGUsIG1lc3NhZ2UpID0+ICh7dHlwZSwgbWVzc2FnZX0pOwo=</text>
+        <text encoding="base64">ICB1c2VyczogW10sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJpbW11dGFibGUiOiAiXjMuOC4xIiwK</text>
+        <text encoding="base64">ICBnZXRGZXRjaGluZ0ZpbGVzOiAoc3RhdGU6IGFueSwgcm9vdDogc3RyaW5nKSA9PiBzdGF0ZS5mZXRjaGluZ0ZpbGVzW3Jvb3RdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBnZXRVc2VyczogKHN0YXRlOiBhbnkpID0+IHN0YXRlLmdldCgndXNlcnMnKSwK</text>
+        <text encoding="base64">ICBnZXRGZXRjaGluZ0ZpbGVzOiAoc3RhdGU6IGFueSwgcm9vdDogc3RyaW5nKSA9PiBzdGF0ZS5mZXRjaGluZ0ZpbGVzW3Jvb3RdCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -564,6 +563,7 @@
         <entry>w'</entry>
         <entry>vsplit</entry>
         <entry>w:w</entry>
+        <entry>&quot;W</entry>
         <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
