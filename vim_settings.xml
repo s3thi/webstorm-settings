@@ -57,12 +57,12 @@
         <mark key="." line="50" column="29" />
         <mark key="^" line="50" column="29" />
       </file>
-      <file name="$USER_HOME$/Code/adya/permissions/src/index.js" timestamp="1486714284443">
+      <file name="$USER_HOME$/Code/adya/permissions/src/index.js" timestamp="1486716357353">
         <mark key="'" line="22" column="0" />
-        <mark key="[" line="12" column="100" />
-        <mark key="]" line="12" column="86" />
-        <mark key="." line="12" column="86" />
-        <mark key="^" line="12" column="86" />
+        <mark key="[" line="12" column="80" />
+        <mark key="]" line="12" column="93" />
+        <mark key="." line="12" column="93" />
+        <mark key="^" line="12" column="93" />
       </file>
       <file name="$USER_HOME$/Code/deeplearn-client/src/components/Token.jsx" timestamp="1477647788187">
         <mark key="'" line="69" column="20" />
@@ -569,8 +569,8 @@
         <entry>w:w</entry>
         <entry>&quot;W</entry>
         <entry>&quot;w</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
