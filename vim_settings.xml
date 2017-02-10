@@ -57,11 +57,12 @@
         <mark key="." line="50" column="29" />
         <mark key="^" line="50" column="29" />
       </file>
-      <file name="$USER_HOME$/Code/adya/permissions/src/index.js" timestamp="1486710919737">
-        <mark key="'" line="22" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Code/adya/permissions/src/index.js" timestamp="1486712717709">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="10" column="10" />
+        <mark key="^" line="10" column="10" />
+        <mark key="." line="10" column="10" />
       </file>
       <file name="$USER_HOME$/Code/deeplearn-client/src/components/Token.jsx" timestamp="1477647788187">
         <mark key="'" line="69" column="20" />
@@ -102,11 +103,11 @@
         <mark key="." line="9" column="19" />
         <mark key="^" line="9" column="19" />
       </file>
-      <file name="$APPLICATION_PLUGINS_DIR$/scratches/scratch.txt" timestamp="1486710933378">
-        <mark key="[" line="2" column="94" />
-        <mark key="]" line="5" column="40" />
-        <mark key="." line="5" column="40" />
-        <mark key="^" line="5" column="40" />
+      <file name="$APPLICATION_PLUGINS_DIR$/scratches/scratch.txt" timestamp="1486712003688">
+        <mark key="[" line="9" column="95" />
+        <mark key="]" line="9" column="94" />
+        <mark key="." line="9" column="94" />
+        <mark key="^" line="9" column="94" />
       </file>
       <file name="$USER_HOME$/Code/deeplearn-client/src/components/HelpView.jsx" timestamp="1477403464950">
         <mark key="[" line="2" column="0" />
@@ -284,11 +285,11 @@
         <mark key="^" line="2" column="33" />
         <mark key="." line="2" column="33" />
       </file>
-      <file name="$USER_HOME$/Code/adya/permissions/README.md" timestamp="1486039333340">
-        <mark key="[" line="16" column="58" />
-        <mark key="]" line="21" column="58" />
-        <mark key="^" line="21" column="58" />
-        <mark key="." line="21" column="58" />
+      <file name="$USER_HOME$/Code/adya/permissions/README.md" timestamp="1486711844205">
+        <mark key="[" line="29" column="93" />
+        <mark key="]" line="29" column="107" />
+        <mark key="^" line="29" column="107" />
+        <mark key="." line="29" column="107" />
       </file>
       <file name="$USER_HOME$/Code/adya/permissions/src/FileTree/selectors.js" timestamp="1486375975930">
         <mark key="[" line="0" column="0" />
@@ -503,11 +504,11 @@
       <jump line="32" column="30" filename="$USER_HOME$/Code/adya/permissions/src/UserList/component.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZXhwb3J0IHR5cGUgVEFkeWFBcGlSZXNwb25zZVVzZXIgPSB7fTsK</text>
+      <register name="&quot;" type="4">
+        <text>might</text>
       </register>
       <register name="-" type="4">
-        <text>{ ...this.state, expanded: { ...this.state.expanded, [root]: true } }</text>
+        <text>might</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFUlJPUl9NRVNTQUdFX1NUWUxFXD4=</text>
