@@ -57,12 +57,12 @@
         <mark key="." line="50" column="29" />
         <mark key="^" line="50" column="29" />
       </file>
-      <file name="$USER_HOME$/Code/adya/permissions/src/index.js" timestamp="1486713480339">
-        <mark key="'" line="28" column="0" />
-        <mark key="[" line="10" column="9" />
-        <mark key="]" line="10" column="10" />
-        <mark key="^" line="10" column="10" />
-        <mark key="." line="10" column="10" />
+      <file name="$USER_HOME$/Code/adya/permissions/src/index.js" timestamp="1486714284443">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="12" column="100" />
+        <mark key="]" line="12" column="86" />
+        <mark key="." line="12" column="86" />
+        <mark key="^" line="12" column="86" />
       </file>
       <file name="$USER_HOME$/Code/deeplearn-client/src/components/Token.jsx" timestamp="1477647788187">
         <mark key="'" line="69" column="20" />
@@ -505,7 +505,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhhcmd1bWVudHMpOwo=</text>
+        <text encoding="base64">ICB0aGlzSXNBU3RvcmVFbmhhbmNlcgo=</text>
       </register>
       <register name="-" type="4">
         <text>might</text>
@@ -517,31 +517,31 @@
         <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7IC4uLnRoaXMuc3RhdGUsIGV4cGFuZGVkOiB7IC4uLnRoaXMuc3RhdGUuZXhwYW5kZWQsIFtyb290XTogdHJ1ZSB9IH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhhcmd1bWVudHMpOwo=</text>
+        <text encoding="base64">ICB0aGlzSXNBU3RvcmVFbmhhbmNlcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IHR5cGUgVEFkeWFBcGlSZXNwb25zZVVzZXIgPSB7fTsK</text>
+        <text encoding="base64">ICB0aGlzSXNBU3RvcmVFbmhhbmNlcgogIGNvbXBvc2UoCiAgICBhcHBseU1pZGRsZXdhcmUodGh1bmspLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IHR5cGUgVEFjdGlvbiA9IHsgdHlwZTogc3RyaW5nLCBwYXlsb2FkPzogYW55IH07Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0IHR5cGUgVERpc3BhdGNoID0gKFRBY3Rpb24pID0+IGFueTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Y29uc3Qgc3RvcmVFbmhhbmNlcnMgPSBbYXBwbHlNaWRkbGV3YXJlXTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Y29uc3QgbWlkZGxld2FyZSA9IFt0aHVua107Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IFNFVF9BQ1RJVkVfVVNFUiA9ICdwZXJtaXNzaW9ucy9QZXJtaXNzaW9uc0FwcC9TRVRfQUNUSVZFX1VTRVInOwo=</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7IC4uLnRoaXMuc3RhdGUsIGV4cGFuZGVkOiB7IC4uLnRoaXMuc3RhdGUuZXhwYW5kZWQsIFtyb290XTogZmFsc2UgfSB9KTsK</text>
+        <text encoding="base64">Y29uc3QgdGhpc0lzQVN0b3JlRW5oYW5jZXIgPSBmdW5jdGlvbiAoYykgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7IC4uLnRoaXMuc3RhdGUsIGV4cGFuZGVkOiB7IC4uLnRoaXMuc3RhdGUuZXhwYW5kZWQsIFtyb290XTogdHJ1ZSB9IH0pOwo=</text>
+        <text encoding="base64">ICByZXR1cm4gYzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5wcm9wcy5mZXRjaEZpbGVzKHJvb3QpOwo=</text>
+        <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
