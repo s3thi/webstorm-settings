@@ -57,9 +57,9 @@
         <mark key="." line="50" column="29" />
         <mark key="^" line="50" column="29" />
       </file>
-      <file name="$USER_HOME$/Code/adya/permissions/src/index.js" timestamp="1486712717709">
+      <file name="$USER_HOME$/Code/adya/permissions/src/index.js" timestamp="1486713480339">
         <mark key="'" line="28" column="0" />
-        <mark key="[" line="8" column="28" />
+        <mark key="[" line="10" column="9" />
         <mark key="]" line="10" column="10" />
         <mark key="^" line="10" column="10" />
         <mark key="." line="10" column="10" />
@@ -103,11 +103,11 @@
         <mark key="." line="9" column="19" />
         <mark key="^" line="9" column="19" />
       </file>
-      <file name="$APPLICATION_PLUGINS_DIR$/scratches/scratch.txt" timestamp="1486712003688">
-        <mark key="[" line="9" column="95" />
-        <mark key="]" line="9" column="94" />
-        <mark key="." line="9" column="94" />
-        <mark key="^" line="9" column="94" />
+      <file name="$APPLICATION_PLUGINS_DIR$/scratches/scratch.txt" timestamp="1486713637429">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="13" column="24" />
+        <mark key="." line="13" column="24" />
+        <mark key="^" line="13" column="24" />
       </file>
       <file name="$USER_HOME$/Code/deeplearn-client/src/components/HelpView.jsx" timestamp="1477403464950">
         <mark key="[" line="2" column="0" />
@@ -504,8 +504,8 @@
       <jump line="32" column="30" filename="$USER_HOME$/Code/adya/permissions/src/UserList/component.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>might</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhcmd1bWVudHMpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>might</text>
@@ -517,31 +517,31 @@
         <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7IC4uLnRoaXMuc3RhdGUsIGV4cGFuZGVkOiB7IC4uLnRoaXMuc3RhdGUuZXhwYW5kZWQsIFtyb290XTogdHJ1ZSB9IH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhwb3J0IHR5cGUgVEFkeWFBcGlSZXNwb25zZVVzZXIgPSB7fTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhcmd1bWVudHMpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IHR5cGUgVEFjdGlvbiA9IHsgdHlwZTogc3RyaW5nLCBwYXlsb2FkPzogYW55IH07Cg==</text>
+        <text encoding="base64">ZXhwb3J0IHR5cGUgVEFkeWFBcGlSZXNwb25zZVVzZXIgPSB7fTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IHR5cGUgVERpc3BhdGNoID0gKFRBY3Rpb24pID0+IGFueTsK</text>
+        <text encoding="base64">ZXhwb3J0IHR5cGUgVEFjdGlvbiA9IHsgdHlwZTogc3RyaW5nLCBwYXlsb2FkPzogYW55IH07Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IHR5cGUgVERpc3BhdGNoID0gKFRBY3Rpb24pID0+IGFueTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IFNFVF9BQ1RJVkVfVVNFUiA9ICdwZXJtaXNzaW9ucy9QZXJtaXNzaW9uc0FwcC9TRVRfQUNUSVZFX1VTRVInOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7IC4uLnRoaXMuc3RhdGUsIGV4cGFuZGVkOiB7IC4uLnRoaXMuc3RhdGUuZXhwYW5kZWQsIFtyb290XTogZmFsc2UgfSB9KTsK</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IFNFVF9BQ1RJVkVfVVNFUiA9ICdwZXJtaXNzaW9ucy9QZXJtaXNzaW9uc0FwcC9TRVRfQUNUSVZFX1VTRVInOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7IC4uLnRoaXMuc3RhdGUsIGV4cGFuZGVkOiB7IC4uLnRoaXMuc3RhdGUuZXhwYW5kZWQsIFtyb290XTogdHJ1ZSB9IH0pOwo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7IC4uLnRoaXMuc3RhdGUsIGV4cGFuZGVkOiB7IC4uLnRoaXMuc3RhdGUuZXhwYW5kZWQsIFtyb290XTogZmFsc2UgfSB9KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5wcm9wcy5mZXRjaEZpbGVzKHJvb3QpOwo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7IC4uLnRoaXMuc3RhdGUsIGV4cGFuZGVkOiB7IC4uLnRoaXMuc3RhdGUuZXhwYW5kZWQsIFtyb290XTogdHJ1ZSB9IH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBnZXRGZXRjaGluZ0ZpbGVzOiAoc3RyaW5nKSA9PiBib29sZWFuLAo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5wcm9wcy5mZXRjaEZpbGVzKHJvb3QpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -568,8 +568,9 @@
         <entry>vsplit</entry>
         <entry>w:w</entry>
         <entry>&quot;W</entry>
-        <entry>w</entry>
+        <entry>&quot;w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
