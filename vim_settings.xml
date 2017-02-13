@@ -32,6 +32,13 @@
       <file name="/a.dummy" timestamp="1486978366232">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/adya/permissions/src/FileTree/FileTree.jsx" timestamp="1486980943296">
+        <mark key="'" line="45" column="24" />
+        <mark key="[" line="6" column="34" />
+        <mark key="]" line="6" column="46" />
+        <mark key="^" line="6" column="46" />
+        <mark key="." line="6" column="46" />
+      </file>
       <file name="$USER_HOME$/Code/adya/permissions/public/index.html" timestamp="1486025086138">
         <mark key="[" line="6" column="20" />
         <mark key="]" line="6" column="21" />
@@ -115,11 +122,11 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/adya/permissions/src/types.js" timestamp="1486639430854">
-        <mark key="[" line="6" column="49" />
-        <mark key="]" line="6" column="98" />
-        <mark key="." line="6" column="98" />
-        <mark key="^" line="6" column="98" />
+      <file name="$USER_HOME$/Code/adya/permissions/src/types.js" timestamp="1486981060534">
+        <mark key="[" line="6" column="111" />
+        <mark key="]" line="6" column="110" />
+        <mark key="." line="6" column="110" />
+        <mark key="^" line="6" column="110" />
       </file>
       <file name="$USER_HOME$/Code/css-layout-screencast/portfolio/pf-flexbox.css" timestamp="1481635365204">
         <mark key="'" line="60" column="0" />
@@ -161,11 +168,11 @@
         <mark key="^" line="124" column="31" />
         <mark key="." line="124" column="31" />
       </file>
-      <file name="$USER_HOME$/Code/adya/permissions/src/Columnizer/Columnizer.jsx" timestamp="1486978506072">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="34" column="58" />
-        <mark key="^" line="34" column="58" />
-        <mark key="." line="34" column="58" />
+      <file name="$USER_HOME$/Code/adya/permissions/src/Columnizer/Columnizer.jsx" timestamp="1486981561012">
+        <mark key="[" line="6" column="32" />
+        <mark key="]" line="6" column="29" />
+        <mark key="^" line="6" column="29" />
+        <mark key="." line="6" column="29" />
       </file>
       <file name="$USER_HOME$/Code/adya/permissions/src/PermissionsApp/actions.js" timestamp="1486638372854">
         <mark key="'" line="15" column="0" />
@@ -311,6 +318,12 @@
         <mark key="^" line="0" column="21" />
         <mark key="." line="0" column="21" />
       </file>
+      <file name="$USER_HOME$/Code/adya/permissions/src/PageContent/PageContent.jsx" timestamp="1486981578071">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="8" column="30" />
+        <mark key="^" line="8" column="30" />
+        <mark key="." line="8" column="30" />
+      </file>
       <file name="$USER_HOME$/Code/css-layout-screencast/news/flex/nw-flex.css" timestamp="1481878988626">
         <mark key="[" line="2" column="1" />
         <mark key="]" line="5" column="21" />
@@ -324,11 +337,11 @@
         <mark key="^" line="15" column="5" />
         <mark key="." line="15" column="5" />
       </file>
-      <file name="$USER_HOME$/Code/adya/permissions/.flowconfig" timestamp="1486460834281">
+      <file name="$USER_HOME$/Code/adya/permissions/.flowconfig" timestamp="1486980616228">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="15" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="1" column="31" />
+        <mark key="^" line="1" column="31" />
+        <mark key="." line="1" column="31" />
       </file>
       <file name="/Dummy.txt" timestamp="1486633389971">
         <mark key="[" line="0" column="0" />
@@ -523,6 +536,7 @@
       <jump line="69" column="65" filename="$USER_HOME$/Code/adya/permissions/src/FileTree/component.jsx" />
       <jump line="70" column="0" filename="$USER_HOME$/Code/adya/permissions/src/FileTree/component.jsx" />
       <jump line="89" column="1" filename="$USER_HOME$/Code/adya/permissions/src/designTokens.js" />
+      <jump line="45" column="24" filename="$USER_HOME$/Code/adya/permissions/src/FileTree/FileTree.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
