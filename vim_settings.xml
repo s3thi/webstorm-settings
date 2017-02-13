@@ -29,7 +29,7 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="/a.dummy" timestamp="1486380164522">
+      <file name="/a.dummy" timestamp="1486978366232">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/adya/permissions/public/index.html" timestamp="1486025086138">
@@ -160,6 +160,12 @@
         <mark key="]" line="138" column="37" />
         <mark key="^" line="124" column="31" />
         <mark key="." line="124" column="31" />
+      </file>
+      <file name="$USER_HOME$/Code/adya/permissions/src/Columnizer/Columnizer.jsx" timestamp="1486978506072">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="34" column="58" />
+        <mark key="^" line="34" column="58" />
+        <mark key="." line="34" column="58" />
       </file>
       <file name="$USER_HOME$/Code/adya/permissions/src/PermissionsApp/actions.js" timestamp="1486638372854">
         <mark key="'" line="15" column="0" />
@@ -584,8 +590,8 @@
         <entry>w:w</entry>
         <entry>&quot;w</entry>
         <entry>&quot;W</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
