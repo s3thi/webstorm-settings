@@ -32,11 +32,11 @@
       <file name="/a.dummy" timestamp="1487075742881">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/adya/permissions/src/FileTree/FileTree.jsx" timestamp="1487154177120">
-        <mark key="[" line="30" column="5" />
-        <mark key="]" line="30" column="51" />
-        <mark key="." line="30" column="51" />
-        <mark key="^" line="30" column="51" />
+      <file name="$USER_HOME$/Code/adya/permissions/src/FileTree/FileTree.jsx" timestamp="1487158492435">
+        <mark key="[" line="60" column="38" />
+        <mark key="]" line="61" column="67" />
+        <mark key="." line="61" column="67" />
+        <mark key="^" line="61" column="67" />
       </file>
       <file name="$USER_HOME$/Code/adya/permissions/public/index.html" timestamp="1486025086138">
         <mark key="[" line="6" column="20" />
@@ -63,11 +63,11 @@
         <mark key="." line="52" column="59" />
         <mark key="^" line="52" column="59" />
       </file>
-      <file name="$USER_HOME$/Code/adya/permissions/src/TreeItem/TreeItem.jsx" timestamp="1487070944847">
-        <mark key="[" line="106" column="94" />
-        <mark key="]" line="106" column="93" />
-        <mark key="^" line="106" column="93" />
-        <mark key="." line="106" column="93" />
+      <file name="$USER_HOME$/Code/adya/permissions/src/TreeItem/TreeItem.jsx" timestamp="1487157891811">
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="0" />
+        <mark key="^" line="131" column="46" />
+        <mark key="." line="127" column="0" />
       </file>
       <file name="$USER_HOME$/Code/adya/permissions/src/index.js" timestamp="1486722207342">
         <mark key="'" line="15" column="1" />
@@ -126,10 +126,11 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/adya/permissions/src/types.js" timestamp="1486983236246">
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
+      <file name="$USER_HOME$/Code/adya/permissions/src/types.js" timestamp="1487156478337">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="11" column="7" />
       </file>
       <file name="$USER_HOME$/Code/css-layout-screencast/portfolio/pf-flexbox.css" timestamp="1481635365204">
         <mark key="'" line="60" column="0" />
@@ -177,12 +178,12 @@
         <mark key="." line="35" column="16" />
         <mark key="^" line="35" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/adya/permissions/src/PermissionsApp/actions.js" timestamp="1487154097941">
+      <file name="$USER_HOME$/Code/adya/permissions/src/PermissionsApp/actions.js" timestamp="1487157357164">
         <mark key="'" line="16" column="0" />
-        <mark key="[" line="38" column="44" />
-        <mark key="]" line="39" column="1" />
-        <mark key="." line="39" column="1" />
-        <mark key="^" line="39" column="1" />
+        <mark key="[" line="56" column="50" />
+        <mark key="]" line="56" column="91" />
+        <mark key="^" line="56" column="91" />
+        <mark key="." line="56" column="91" />
       </file>
       <file name="$USER_HOME$/Code/css-layout-screencast/portfolio/grid/index.html" timestamp="1481705902961">
         <mark key="[" line="8" column="25" />
@@ -224,12 +225,12 @@
         <mark key="^" line="94" column="1" />
         <mark key="." line="97" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/adya/permissions/src/PermissionsApp/reducer.js" timestamp="1487154111923">
-        <mark key="'" line="84" column="54" />
-        <mark key="[" line="69" column="38" />
-        <mark key="]" line="69" column="69" />
-        <mark key="^" line="69" column="69" />
-        <mark key="." line="69" column="69" />
+      <file name="$USER_HOME$/Code/adya/permissions/src/PermissionsApp/reducer.js" timestamp="1487158364050">
+        <mark key="'" line="88" column="54" />
+        <mark key="[" line="89" column="53" />
+        <mark key="]" line="90" column="52" />
+        <mark key="^" line="90" column="52" />
+        <mark key="." line="90" column="52" />
       </file>
       <file name="$USER_HOME$/Code/adya/permissions/src/UserList/container.jsx" timestamp="1486117133503">
         <mark key="[" line="0" column="0" />
@@ -275,12 +276,12 @@
         <mark key="^" line="9" column="15" />
         <mark key="." line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/adya/permissions/src/PermissionsApp/PermissionsAppContainer.jsx" timestamp="1487154136487">
-        <mark key="'" line="47" column="25" />
-        <mark key="[" line="106" column="29" />
-        <mark key="]" line="106" column="62" />
-        <mark key="." line="106" column="62" />
-        <mark key="^" line="106" column="62" />
+      <file name="$USER_HOME$/Code/adya/permissions/src/PermissionsApp/PermissionsAppContainer.jsx" timestamp="1487158660777">
+        <mark key="'" line="42" column="2" />
+        <mark key="[" line="105" column="55" />
+        <mark key="]" line="105" column="59" />
+        <mark key="." line="105" column="59" />
+        <mark key="^" line="105" column="59" />
       </file>
       <file name="$USER_HOME$/Code/adya/permissions/src/FileTree/component.jsx" timestamp="1486722767081">
         <mark key="'" line="76" column="0" />
@@ -457,11 +458,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="46" filename="$USER_HOME$/Code/deeplearn-client/src/containers/DeeplearnApp/DeeplearnApp.jsx" />
-      <jump line="89" column="0" filename="$USER_HOME$/Code/deeplearn-client/src/containers/DeeplearnApp/DeeplearnApp.jsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/deeplearn-client/src/containers/DeeplearnApp/DeeplearnApp.jsx" />
-      <jump line="5" column="68" filename="$USER_HOME$/Code/deeplearn-client/src/containers/DeeplearnApp/DeeplearnApp.jsx" />
-      <jump line="79" column="34" filename="$USER_HOME$/Code/deeplearn-client/src/components/TradeInput.jsx" />
       <jump line="90" column="23" filename="$USER_HOME$/Code/deeplearn-client/src/containers/DeeplearnApp/DeeplearnApp.jsx" />
       <jump line="83" column="0" filename="$USER_HOME$/Code/deeplearn-client/src/containers/DeeplearnApp/DeeplearnApp.jsx" />
       <jump line="19" column="36" filename="$USER_HOME$/Code/deeplearn-client/src/containers/DeeplearnApp/DeeplearnApp.jsx" />
@@ -557,56 +553,61 @@
       <jump line="89" column="45" filename="$USER_HOME$/Code/adya/permissions/src/PermissionsApp/reducer.js" />
       <jump line="3" column="0" filename="$USER_HOME$/Code/adya/permissions/src/PermissionsApp/reducer.js" />
       <jump line="87" column="54" filename="$USER_HOME$/Code/adya/permissions/src/PermissionsApp/reducer.js" />
+      <jump line="107" column="17" filename="$USER_HOME$/Code/adya/permissions/src/PermissionsApp/PermissionsAppContainer.jsx" />
+      <jump line="15" column="8" filename="$USER_HOME$/Code/adya/permissions/src/PermissionsApp/PermissionsAppContainer.jsx" />
+      <jump line="50" column="34" filename="$USER_HOME$/Code/adya/permissions/src/PermissionsApp/PermissionsAppContainer.jsx" />
+      <jump line="30" column="2" filename="$USER_HOME$/Code/adya/permissions/src/PermissionsApp/PermissionsAppContainer.jsx" />
+      <jump line="42" column="2" filename="$USER_HOME$/Code/adya/permissions/src/PermissionsApp/PermissionsAppContainer.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlbigoKSA9PiB0aGlzLnByb3BzLnNldFJvb3RFeHBhbmRlZChyb290LmZpbGVfaWQsIHRydWUpKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2NoYWwgYmhpIHJhaGEgaGFpIGt5YSBrdXR0ZScpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>w</text>
+        <text encoding="base64">XDxzZXRBY3RpdmVVc2VyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlbigoKSA9PiB0aGlzLnByb3BzLnNldFJvb3RFeHBhbmRlZChyb290LmZpbGVfaWQsIHRydWUpKTsK</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IHNldEFjdGl2ZVVzZXIgPSAodXNlcklkOiBzdHJpbmcpID0+ICh7IHR5cGU6IFNFVF9BQ1RJVkVfVVNFUiwgcGF5bG9hZDogeyB1c2VySWQgfSB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2NoYWwgYmhpIHJhaGEgaGFpIGt5YSBrdXR0ZScpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5wcm9wcy5mZXRjaEZpbGVzKHJvb3QpCiAgICAgICAgLnRoZW4oKCkgPT4gdGhpcy5wcm9wcy5leHBhbmRSb290KHJvb3QuZmlsZV9pZCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIG9uQ2xpY2s9e3RoaXMucHJvcHMub25GaWxlQ2xpY2t9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmbGF0dGVuZWRGaWxlVHJlZTogZXhwYW5kUm9vdChzdGF0ZSwgYWN0aW9uLnBheWxvYWQucm9vdCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmbGF0RmlsZVRyZWUgPSBmbGF0RmlsZVRyZWUuY29uY2F0KGNoaWxkV2l0aERlcHRoKTsK</text>
+        <text encoding="base64">aW1wb3J0IHtGSUxFU19ST09UfSBmcm9tICcuLi9jb25zdGFudHMnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">Ly8gaW1wb3J0IHUgZnJvbSAndXBkZWVwJzsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldCBmbGF0RmlsZVRyZWUgPSBbdSh7IGRlcHRoOiAxIH0sIHJvb3QpXTsK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5wcm9wcy5mZXRjaEZpbGVzKHJvb3QpCiAgICAgICAgLnRoZW4oKCkgPT4gdGhpcy5wcm9wcy5leHBhbmRSb290KHJvb3QuZmlsZV9pZCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBmbGF0dGVuZWRGaWxlVHJlZTogZXhwYW5kUm9vdChzdGF0ZSwgYWN0aW9uLnBheWxvYWQucm9vdCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBmbGF0RmlsZVRyZWUgPSBmbGF0RmlsZVRyZWUuY29uY2F0KGNoaWxkV2l0aERlcHRoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>w</last-search>
+      <last-search encoding="base64">XDxzZXRBY3RpdmVVc2VyXD4=</last-search>
       <last-offset />
-      <last-pattern>w</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern encoding="base64">XDxzZXRBY3RpdmVVc2VyXD4=</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -615,6 +616,8 @@
         <entry encoding="base64">XDxFUlJPUl9NRVNTQUdFX1NUWUxFXD4=</entry>
         <entry encoding="base64">XDxzaXplXD4=</entry>
         <entry>w</entry>
+        <entry encoding="base64">XDxGSUxFU19ST09UX0lEXD4=</entry>
+        <entry encoding="base64">XDxzZXRBY3RpdmVVc2VyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>6</entry>
@@ -627,9 +630,9 @@
         <entry>&quot;W</entry>
         <entry>e</entry>
         <entry>?w</entry>
-        <entry>W</entry>
         <entry>&quot;w</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
