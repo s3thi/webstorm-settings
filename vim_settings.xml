@@ -122,7 +122,8 @@
         <mark key="." line="9" column="19" />
         <mark key="^" line="9" column="19" />
       </file>
-      <file name="$APPLICATION_PLUGINS_DIR$/scratches/scratch.txt" timestamp="1487152928797">
+      <file name="$APPLICATION_PLUGINS_DIR$/scratches/scratch.txt" timestamp="1487322187924">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="89" />
         <mark key="^" line="0" column="89" />
         <mark key="." line="0" column="89" />
