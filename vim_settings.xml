@@ -122,11 +122,11 @@
         <mark key="." line="9" column="19" />
         <mark key="^" line="9" column="19" />
       </file>
-      <file name="$APPLICATION_PLUGINS_DIR$/scratches/scratch.txt" timestamp="1487322187924">
+      <file name="$APPLICATION_PLUGINS_DIR$/scratches/scratch.txt" timestamp="1487334745398">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="89" />
-        <mark key="^" line="0" column="89" />
-        <mark key="." line="0" column="89" />
+        <mark key="]" line="8" column="93" />
+        <mark key="^" line="8" column="93" />
+        <mark key="." line="8" column="93" />
       </file>
       <file name="$USER_HOME$/Code/deeplearn-client/src/components/HelpView.jsx" timestamp="1477403464950">
         <mark key="[" line="2" column="0" />
